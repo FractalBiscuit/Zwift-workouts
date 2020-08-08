@@ -1,0 +1,31 @@
+<workout_file>
+    <author></author>
+    <name>Wolf Cub &amp; Moth</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <SteadyState Duration="120" Power="0.4"/>
+        <SteadyState Duration="120" Power="0.45"/>
+        <SteadyState Duration="120" Power="0.5"/>
+        <SteadyState Duration="180" Power="0.6"/>
+        <IntervalsT Repeat="3" OnDuration="45" OffDuration="60" OnPower="1.43" OffPower="0.4"/>
+        <IntervalsT Repeat="1" OnDuration="180" OffDuration="120" OnPower="1.05" OffPower="0.4"/>
+        <IntervalsT Repeat="3" OnDuration="20" OffDuration="25" OnPower="1.8" OffPower="0.4"/>
+        <IntervalsT Repeat="2" OnDuration="55" OffDuration="70" OnPower="1.37" OffPower="0.4"/>
+        <IntervalsT Repeat="1" OnDuration="270" OffDuration="120" OnPower="1.12" OffPower="0.45"/>
+        <IntervalsT Repeat="5" OnDuration="10" OffDuration="11" OnPower="2.23" OffPower="0.4"/>
+        <SteadyState Duration="180" Power="0.4"/>
+        <IntervalsT Repeat="3" OnDuration="35" OffDuration="30" OnPower="1.6" OffPower="0.4"/>
+        <SteadyState Duration="70" Power="0.4"/>
+        <IntervalsT Repeat="1" OnDuration="285" OffDuration="150" OnPower="1.05" OffPower="0.4"/>
+        <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="1.44" OffPower="0.4"/>
+        <SteadyState Duration="60" Power="0.55"/>
+        <IntervalsT Repeat="2" OnDuration="75" OffDuration="60" OnPower="1.28" OffPower="0.4"/>
+        <SteadyState Duration="160" Power="0.4"/>
+        <IntervalsT Repeat="2" OnDuration="180" OffDuration="25" OnPower="0.8" OffPower="0.45"/>
+        <IntervalsT Repeat="3" OnDuration="25" OffDuration="30" OnPower="1.95" OffPower="0.4"/>
+        <Cooldown Duration="540" PowerLow="0.45" PowerHigh="0.2"/>
+    </workout>
+</workout_file>

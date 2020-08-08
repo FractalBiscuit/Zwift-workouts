@@ -1,0 +1,44 @@
+<workout_file>
+    <author></author>
+    <name>Sprintervals</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.75"/>
+        <SteadyState Duration="40" Power="1.25"/>
+        <SteadyState Duration="600" Power="0.82"/>
+        <SteadyState Duration="110" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="30" show_avg="1" FlatRoad="1"/>
+        <SteadyState Duration="260" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="30" show_avg="1" FlatRoad="1"/>
+        <SteadyState Duration="260" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="30" show_avg="1" FlatRoad="1"/>
+        <SteadyState Duration="260" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="20" show_avg="1" FlatRoad="1"/>
+        <SteadyState Duration="270" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="20" show_avg="1" FlatRoad="1"/>
+        <SteadyState Duration="270" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="20" show_avg="1" FlatRoad="1"/>
+        <SteadyState Duration="270" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="10" show_avg="1" FlatRoad="1"/>
+        <SteadyState Duration="280" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="10" show_avg="1" FlatRoad="1"/>
+        <SteadyState Duration="280" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="10" show_avg="1" FlatRoad="1"/>
+        <SteadyState Duration="290" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="10" show_avg="1" FlatRoad="1"/>
+        <Cooldown Duration="600" PowerLow="0.75" PowerHigh="0.25"/>
+    </workout>
+</workout_file>

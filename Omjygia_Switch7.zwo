@@ -1,0 +1,29 @@
+<workout_file>
+    <author></author>
+    <name>Omjygia Switch7</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.7"/>
+        <SteadyState Duration="220" Power="0.8"/>
+        <IntervalsT Repeat="2" OnDuration="215" OffDuration="85" OnPower="0.85" OffPower="1.05"/>
+        <SteadyState Duration="90" Power="0.5"/>
+        <SteadyState Duration="300" Power="1"/>
+        <SteadyState Duration="125" Power="0.6"/>
+        <SteadyState Duration="60" Power="1.15"/>
+        <SteadyState Duration="120" Power="1.1"/>
+        <SteadyState Duration="120" Power="1.05"/>
+        <SteadyState Duration="155" Power="0.95"/>
+        <SteadyState Duration="125" Power="0.6"/>
+        <SteadyState Duration="120" Power="1.1"/>
+        <SteadyState Duration="130" Power="0.95"/>
+        <SteadyState Duration="120" Power="0.5"/>
+        <SteadyState Duration="60" Power="1.15"/>
+        <SteadyState Duration="80" Power="0.5"/>
+        <IntervalsT Repeat="3" OnDuration="60" OffDuration="120" OnPower="1.15" OffPower="0.87"/>
+        <SteadyState Duration="125" Power="1.1"/>
+        <Cooldown Duration="600" PowerLow="0.75" PowerHigh="0.25"/>
+    </workout>
+</workout_file>

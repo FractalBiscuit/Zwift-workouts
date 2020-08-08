@@ -1,0 +1,26 @@
+<workout_file>
+    <author></author>
+    <name>Juneau -2</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <SteadyState Duration="480" Power="0.5"/>
+        <SteadyState Duration="180" Power="0.7"/>
+        <SteadyState Duration="180" Power="0.9"/>
+        <SteadyState Duration="300" Power="0.4"/>
+        <SteadyState Duration="540" Power="0.88"/>
+        <SteadyState Duration="120" Power="0.4"/>
+        <SteadyState Duration="540" Power="0.88"/>
+        <SteadyState Duration="480" Power="0.4"/>
+        <SteadyState Duration="540" Power="0.88"/>
+        <SteadyState Duration="120" Power="0.4"/>
+        <SteadyState Duration="540" Power="0.88"/>
+        <SteadyState Duration="480" Power="0.4"/>
+        <SteadyState Duration="540" Power="0.88"/>
+        <SteadyState Duration="120" Power="0.4"/>
+        <SteadyState Duration="540" Power="0.88"/>
+        <Cooldown Duration="300" PowerLow="0.4" PowerHigh="0.3"/>
+    </workout>
+</workout_file>

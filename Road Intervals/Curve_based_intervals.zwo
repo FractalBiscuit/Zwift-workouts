@@ -1,0 +1,24 @@
+<workout_file>
+    <author></author>
+    <name>Curve based intervals</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <SteadyState Duration="120" Power="0.35"/>
+        <SteadyState Duration="200" Power="0.5"/>
+        <SteadyState Duration="150" Power="0.6"/>
+        <SteadyState Duration="60" Power="0.35"/>
+        <SteadyState Duration="60" Power="1.1"/>
+        <SteadyState Duration="120" Power="0.35"/>
+        <IntervalsT Repeat="3" OnDuration="180" OffDuration="360" OnPower="1.12" OffPower="0.4" show_avg="1"/>
+        <SteadyState Duration="450" Power="0.8"/>
+        <SteadyState Duration="240" Power="0.4"/>
+        <IntervalsT Repeat="4" OnDuration="60" OffDuration="240" OnPower="1.37" OffPower="0.4"/>
+        <SteadyState Duration="460" Power="0.75"/>
+        <SteadyState Duration="240" Power="0.4"/>
+        <IntervalsT Repeat="2" OnDuration="300" OffDuration="360" OnPower="1.07" OffPower="0.4"/>
+        <Cooldown Duration="600" PowerLow="0.5" PowerHigh="0.25"/>
+    </workout>
+</workout_file>

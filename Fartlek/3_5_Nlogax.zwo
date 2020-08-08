@@ -1,0 +1,36 @@
+<workout_file>
+    <author>Bohren Gullich</author>
+    <name>3 - 5 - Nlogax</name>
+    <description>Inspired by a real world route. Take the long way (condensed for time) to Cripple Creek from Guffey.Spend an hour on rollers and oscillating long descents before a big 30 minute climb, then an increasingly steep section gets you over the hump before one last effort. </description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="2:15"/>
+    </tags>
+    <workout>
+        <Warmup Duration="900" PowerLow="0.2545" PowerHigh="0.75449997" pace="1128505344"/>
+        <SteadyState Duration="37" Power="0.81280869" pace="1128505344"/>
+        <SteadyState Duration="371" Power="0.87449998" pace="1128505344"/>
+        <SteadyState Duration="173" Power="1.0749815" pace="1128505344"/>
+        <SteadyState Duration="205" Power="0.91449994" pace="1128505344"/>
+        <SteadyState Duration="195" Power="1.1344999" pace="1128505344"/>
+        <SteadyState Duration="658" Power="0.95449996" pace="1128505344"/>
+        <SteadyState Duration="494" Power="0.72449994" pace="1128505344"/>
+        <SteadyState Duration="260" Power="1.1387124" pace="1128505344"/>
+        <SteadyState Duration="768" Power="0.85449994" pace="1128505344"/>
+        <SteadyState Duration="95" Power="1.0640655" pace="1128505344"/>
+        <SteadyState Duration="75" Power="0.86244702" pace="1128505344"/>
+        <SteadyState Duration="387" Power="0.74449998" pace="1128505344"/>
+        <SteadyState Duration="248" Power="1.1244999" pace="1128505344"/>
+        <IntervalsT Repeat="4" OnDuration="40" OffDuration="200" OnPower="1.1745" OffPower="0.95449996" pace="1128505344"/>
+        <SteadyState Duration="140" Power="1.0745" pace="1128505344"/>
+        <SteadyState Duration="330" Power="1.0104508" pace="1128505344"/>
+        <SteadyState Duration="245" Power="0.66449994" pace="1128505344"/>
+        <Ramp Duration="540" PowerLow="0.66449994" PowerHigh="0.98449993" pace="1128505344"/>
+        <SteadyState Duration="180" Power="1.151842" pace="1128505344"/>
+        <SteadyState Duration="85" Power="1.2244999" pace="1128505344"/>
+        <SteadyState Duration="275" Power="0.81449997" pace="1128505344"/>
+        <SteadyState Duration="140" Power="1.1745" pace="1128505344"/>
+        <SteadyState Duration="39" Power="0.87896228" pace="1128505344"/>
+        <Cooldown Duration="600" PowerLow="0.75449997" PowerHigh="0.2545" pace="1128505344"/>
+    </workout>
+</workout_file>

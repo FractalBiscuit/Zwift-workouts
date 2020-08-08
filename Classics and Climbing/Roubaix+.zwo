@@ -1,0 +1,36 @@
+<workout_file>
+    <author>Paul deGrandis</author>
+    <name>Roubaix+</name>
+    <description>Like the "Mat Hayman Roubaix" training, but with extended Z2/Z3 workloads.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="ParisRoubaix"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.39013886" PowerHigh="0.62347221"/>
+        <SteadyState Duration="10" Power="2.7790277"/>
+        <SteadyState Duration="60.000004" Power="0.64056987"/>
+        <SteadyState Duration="10" Power="2.7790277"/>
+        <SteadyState Duration="60.000004" Power="0.64013886"/>
+        <SteadyState Duration="10" Power="2.7790277"/>
+        <SteadyState Duration="120" Power="0.75238907"/>
+        <SteadyState Duration="60" Power="0.88751918"/>
+        <SteadyState Duration="900" Power="0.80958337"/>
+        <SteadyState Duration="300" Power="0.50124997"/>
+        <IntervalsT Repeat="6" OnDuration="120" OffDuration="30" OnPower="0.875256" OffPower="1.4042662"/>
+        <SteadyState Duration="60.000004" Power="0.87625003"/>
+        <SteadyState Duration="120" Power="0.49982935"/>
+        <SteadyState Duration="1200" Power="0.7353242"/>
+        <SteadyState Duration="60" Power="1.434983"/>
+        <SteadyState Duration="900" Power="0.86160409"/>
+        <SteadyState Duration="420" Power="0.74556315"/>
+        <IntervalsT Repeat="4" OnDuration="40" OffDuration="20" OnPower="0.92303759" OffPower="0.84112626" OverUnder="1"/>
+        <SteadyState Duration="300" Power="0.88890791"/>
+        <SteadyState Duration="120" Power="0.97423214"/>
+        <SteadyState Duration="30" Power="1.1278157"/>
+        <SteadyState Duration="20" Power="2.8001707"/>
+        <SteadyState Duration="300" Power="0.7353242"/>
+        <Cooldown Duration="600" PowerLow="0.63976109" PowerHigh="0.29163823"/>
+    </workout>
+</workout_file>

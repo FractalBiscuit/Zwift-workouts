@@ -1,0 +1,16 @@
+<workout_file>
+    <author>Paul deGrandis</author>
+    <name>Modified 2/3</name>
+    <description>A zone 2/3 split session with a interval blast in the middle.  Push up that endurance!</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.37696245" PowerHigh="0.68412966"/>
+        <SteadyState Duration="1500" Power="0.71825939"/>
+        <IntervalsT Repeat="4" OnDuration="10" OffDuration="60" OnPower="2.8684301" OffPower="0.78651875"/>
+        <SteadyState Duration="600" Power="0.82064843"/>
+        <SteadyState Duration="600" Power="0.88890791"/>
+        <SteadyState Duration="600" Power="0.74556315"/>
+        <Cooldown Duration="300" PowerLow="0.74556315" PowerHigh="0.29163823"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,38 @@
+<workout_file>
+    <author></author>
+    <name>Cheaha +1</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <SteadyState Duration="240" Power="0.5"/>
+        <SteadyState Duration="240" Power="0.57"/>
+        <SteadyState Duration="240" Power="0.64"/>
+        <SteadyState Duration="600" Power="0.7">
+            <textevent timeoffset="580" message="try to exceed 180% FTP"/>
+        </SteadyState>
+        <FreeRide Duration="20" FlatRoad="1">
+            <textevent timeoffset="0" message="SPRINT"/>
+        </FreeRide>
+        <Ramp Duration="40" PowerLow="0.25" PowerHigh="0.7"/>
+        <SteadyState Duration="600" Power="0.7"/>
+        <SteadyState Duration="600" Power="0.7">
+            <textevent timeoffset="580" message="try to exceed 180% FTP"/>
+        </SteadyState>
+        <FreeRide Duration="20" FlatRoad="1">
+            <textevent timeoffset="0" message="SPRINT"/>
+        </FreeRide>
+        <Ramp Duration="40" PowerLow="0.25" PowerHigh="0.7"/>
+        <SteadyState Duration="600" Power="0.7"/>
+        <SteadyState Duration="600" Power="0.7">
+            <textevent timeoffset="580" message="try to exceed 180% FTP"/>
+        </SteadyState>
+        <FreeRide Duration="20" FlatRoad="1">
+            <textevent timeoffset="0" message="SPRINT"/>
+        </FreeRide>
+        <Ramp Duration="40" PowerLow="0.25" PowerHigh="0.7"/>
+        <SteadyState Duration="600" Power="0.7"/>
+        <Cooldown Duration="600" PowerLow="0.7" PowerHigh="0.25"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,28 @@
+<workout_file>
+    <author></author>
+    <name>Kirkhope</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <SteadyState Duration="60" Power="0.4"/>
+        <SteadyState Duration="100" Power="0.5"/>
+        <SteadyState Duration="140" Power="0.55"/>
+        <SteadyState Duration="180" Power="0.65"/>
+        <SteadyState Duration="120" Power="0.4"/>
+        <IntervalsT Repeat="5" OnDuration="30" OffDuration="30" OnPower="1.6" OffPower="0.4"/>
+        <SteadyState Duration="150" Power="0.4"/>
+        <SteadyState Duration="300" Power="0.81"/>
+        <SteadyState Duration="150" Power="0.4"/>
+        <IntervalsT Repeat="4" OnDuration="45" OffDuration="45" OnPower="1.42" OffPower="0.4"/>
+        <SteadyState Duration="150" Power="0.4"/>
+        <SteadyState Duration="300" Power="0.82"/>
+        <SteadyState Duration="150" Power="0.4"/>
+        <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="1.33" OffPower="0.4"/>
+        <SteadyState Duration="150" Power="0.4"/>
+        <SteadyState Duration="300" Power="0.84"/>
+        <Ramp Duration="600" PowerLow="0.84" PowerHigh="0.74"/>
+        <Cooldown Duration="600" PowerLow="0.74" PowerHigh="0.25"/>
+    </workout>
+</workout_file>

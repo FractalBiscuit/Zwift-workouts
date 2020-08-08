@@ -1,0 +1,23 @@
+<workout_file>
+    <author></author>
+    <name>Best Foot Forward</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState Duration="175" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="55" Power="0.55000001" pace="1128505344"/>
+        <SteadyState Duration="50" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="90" Power="0.80000001" pace="1128505344"/>
+        <SteadyState Duration="90" Power="0.94999999" pace="1128505344"/>
+        <SteadyState Duration="90" Power="1.05" pace="1128505344"/>
+        <SteadyState Duration="55" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="45" Power="1.15" pace="1128505344"/>
+        <SteadyState Duration="105" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.2" pace="1128505344"/>
+        <SteadyState Duration="55" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.2" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.2" pace="1128505344"/>
+    </workout>
+</workout_file>

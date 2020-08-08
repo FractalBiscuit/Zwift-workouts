@@ -1,0 +1,22 @@
+<workout_file>
+    <author></author>
+    <name>buncha z2</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.64999998" pace="1128505344"/>
+        <IntervalsT Repeat="3" OnDuration="120" OffDuration="380" OnPower="0.50449997" OffPower="0.61449999" pace="1128505344" OverUnder="1"/>
+        <SteadyState Duration="420" Power="0.40450001" pace="1128505344"/>
+        <IntervalsT Repeat="3" OnDuration="60" OffDuration="480" OnPower="0.89999998" OffPower="0.61152726" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.40000001" pace="1128505344"/>
+        <IntervalsT Repeat="3" OnDuration="120" OffDuration="480" OnPower="0.75" OffPower="0.61152756" pace="1128505344" OverUnder="1"/>
+        <SteadyState Duration="360" Power="0.40000001" pace="1128505344"/>
+        <IntervalsT Repeat="3" OnDuration="120" OffDuration="360" OnPower="0.55449998" OffPower="0.61449999" pace="1128505344" OverUnder="1"/>
+        <SteadyState Duration="300" Power="0.40000001" pace="1128505344"/>
+        <IntervalsT Repeat="3" OnDuration="180" OffDuration="420" OnPower="0.75" OffPower="0.61152697" pace="1128505344" OverUnder="1"/>
+        <SteadyState Duration="240" Power="0.40000001" pace="1128505344"/>
+        <IntervalsT Repeat="3" OnDuration="180" OffDuration="360" OnPower="0.69999999" OffPower="0.61152726" pace="1128505344" OverUnder="1"/>
+        <Cooldown Duration="600" PowerLow="0.64999998" PowerHigh="0.25" pace="1128505344"/>
+    </workout>
+</workout_file>

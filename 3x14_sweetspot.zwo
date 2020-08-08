@@ -1,0 +1,18 @@
+<workout_file>
+    <author></author>
+    <name>3x14 sweetspot</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <SteadyState Duration="300" Power="0.4"/>
+        <SteadyState Duration="300" Power="0.5"/>
+        <SteadyState Duration="840" Power="0.92"/>
+        <SteadyState Duration="240" Power="0.5"/>
+        <SteadyState Duration="840" Power="0.89"/>
+        <SteadyState Duration="240" Power="0.5"/>
+        <SteadyState Duration="840" Power="0.86"/>
+        <Cooldown Duration="600" PowerLow="0.75" PowerHigh="0.25"/>
+    </workout>
+</workout_file>

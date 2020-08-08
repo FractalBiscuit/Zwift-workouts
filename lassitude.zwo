@@ -1,0 +1,10 @@
+<workout_file>
+    <author>B.Güllich</author>
+    <name>lassitude</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <FreeRide Duration="5400" FlatRoad="0"/>
+    </workout>
+</workout_file>

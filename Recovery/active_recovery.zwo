@@ -1,0 +1,14 @@
+<workout_file>
+    <author>f.bassis</author>
+    <name>Active recovery</name>
+    <description>Spin your legs recovering the energies for the next workouts.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="480" PowerLow="0.3145" PowerHigh="0.81449997" pace="1128505344"/>
+        <IntervalsT Repeat="5" OnDuration="45" OffDuration="165" OnPower="0.75449997" OffPower="0.52450001" pace="1128505344" Cadence="85" CadenceResting="65"/>
+        <SteadyState Duration="210" Power="0.65393442" pace="1128505344" Cadence="100"/>
+        <IntervalsT Repeat="4" OnDuration="120" OffDuration="120" OnPower="0.75557375" OffPower="0.50311476" pace="1128505344"/>
+        <Cooldown Duration="300" PowerLow="0.7490164" PowerHigh="0.25065574" pace="1128505344"/>
+    </workout>
+</workout_file>

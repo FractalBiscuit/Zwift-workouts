@@ -1,0 +1,81 @@
+<workout_file>
+    <author></author>
+    <name>Diamond Rangs</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="3:00"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="120" Power="0.40000001" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="15" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+        <SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="278" Power="0.85000002" pace="1128505344"/>
+        <SteadyState Duration="30" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="15" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.64999998" pace="1128505344"/>
+        <IntervalsT Repeat="4" OnDuration="40" OffDuration="160" OnPower="1.1" OffPower="0.89999998" pace="1128505344"/>
+        <SteadyState Duration="90" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="60" Power="1.25" pace="1128505344"/>
+        <SteadyState Duration="30" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="108" Power="0.89999998" pace="1128505344"/>
+        <SteadyState Duration="108" Power="0.80000001" pace="1128505344"/>
+        <FreeRide Duration="80" FlatRoad="1"/>
+        <IntervalsT Repeat="3" OnDuration="40" OffDuration="131" OnPower="0.94999999" OffPower="0.69999999" pace="1128505344"/>
+        <SteadyState Duration="15" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="200" Power="0.60000002" pace="1128505344"/>
+        <SteadyState Duration="281" Power="0.80000001" pace="1128505344"/>
+        <IntervalsT Repeat="4" OnDuration="20" OffDuration="81" OnPower="1.1" OffPower="0.89999998" pace="1128505344"/>
+        <SteadyState Duration="30" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+        <IntervalsT Repeat="6" OnDuration="20" OffDuration="80" OnPower="1" OffPower="0.85000002" pace="1128505344" OverUnder="1"/>
+        <SteadyState Duration="30" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="100" Power="1" pace="1128505344"/>
+        <SteadyState Duration="30" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="200" Power="0.75" pace="1128505344"/>
+        <SteadyState Duration="80" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="80" Power="0.80000001" pace="1128505344"/>
+        <SteadyState Duration="80" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="80" Power="0.69999999" pace="1128505344"/>
+        <SteadyState Duration="80" Power="0.94999999" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="80" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="40" Power="1.25" pace="1128505344"/>
+        <SteadyState Duration="278" Power="0.85000002" pace="1128505344"/>
+        <SteadyState Duration="30" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="15" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.64999998" pace="1128505344"/>
+        <IntervalsT Repeat="4" OnDuration="40" OffDuration="160" OnPower="1.1" OffPower="0.89999998" pace="1128505344"/>
+        <SteadyState Duration="90" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="60" Power="1.25" pace="1128505344"/>
+        <SteadyState Duration="30" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="108" Power="0.89999998" pace="1128505344"/>
+        <SteadyState Duration="108" Power="0.80000001" pace="1128505344"/>
+        <FreeRide Duration="80" FlatRoad="1"/>
+        <IntervalsT Repeat="3" OnDuration="40" OffDuration="131" OnPower="0.94999999" OffPower="0.69999999" pace="1128505344"/>
+        <SteadyState Duration="15" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="200" Power="0.60000002" pace="1128505344"/>
+        <SteadyState Duration="281" Power="0.80000001" pace="1128505344"/>
+        <IntervalsT Repeat="4" OnDuration="20" OffDuration="81" OnPower="1.1" OffPower="0.89999998" pace="1128505344"/>
+        <SteadyState Duration="30" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+        <IntervalsT Repeat="6" OnDuration="20" OffDuration="80" OnPower="1" OffPower="0.85000002" pace="1128505344" OverUnder="1"/>
+        <SteadyState Duration="30" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="100" Power="1" pace="1128505344"/>
+        <SteadyState Duration="30" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="200" Power="0.75" pace="1128505344"/>
+        <SteadyState Duration="80" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="80" Power="0.80000001" pace="1128505344"/>
+        <SteadyState Duration="80" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="80" Power="0.69999999" pace="1128505344"/>
+        <SteadyState Duration="80" Power="0.94999999" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="80" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="40" Power="1.25" pace="1128505344"/>
+        <Cooldown Duration="600" PowerLow="0.75" PowerHigh="0.25" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,16 @@
+<workout_file>
+    <author>B.Güllich</author>
+    <name>Rcvry</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.2545" PowerHigh="0.55449998" pace="1128505344"/>
+        <SteadyState Duration="60" Power="1.2012438" pace="1128505344"/>
+        <SteadyState Duration="900" Power="0.50449997" pace="1128505344"/>
+        <SteadyState Duration="90" Power="1.1465174" pace="1128505344"/>
+        <SteadyState Duration="840" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="120" Power="1.0944999" pace="1128505344"/>
+        <Cooldown Duration="600" PowerLow="0.55449998" PowerHigh="0.2545" pace="1128505344"/>
+    </workout>
+</workout_file>

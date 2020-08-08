@@ -1,0 +1,19 @@
+<workout_file>
+    <author>Paul deGrandis</author>
+    <name>Gorby+</name>
+    <description>This is like The Gorby's standard 5x5 workout, but the last block is replaced with a small power pyramid.  40-20s, sweet spot, OU-FTP, z2 blocks - you'll hit them all.  You should use this workout to hone your climbing potential after you've developed a solid FTP.   Perform 1-2x per week for best results.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.29846415" PowerHigh="0.80017066"/>
+        <IntervalsT Repeat="2" OnDuration="300" OffDuration="300" OnPower="1.0998305" OffPower="0.55067796"/>
+        <IntervalsT Repeat="2" OnDuration="300" OffDuration="300" OnPower="1.1346416" OffPower="0.58174062"/>
+        <IntervalsT Repeat="4" OnDuration="40" OffDuration="20" OnPower="1.5373721" OffPower="0.6158703"/>
+        <SteadyState Duration="180" Power="0.64999998"/>
+        <SteadyState Duration="300" Power="0.90597272"/>
+        <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="1.0595564" OffPower="0.99129695" OverUnder="1"/>
+        <SteadyState Duration="180" Power="0.88890791"/>
+        <SteadyState Duration="360" Power="0.7353242"/>
+        <Cooldown Duration="180" PowerLow="0.71825939" PowerHigh="0.47935152"/>
+    </workout>
+</workout_file>

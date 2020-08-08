@@ -1,0 +1,19 @@
+<workout_file>
+    <author></author>
+    <name>Galena +1</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <SteadyState Duration="180" Power="0.5"/>
+        <SteadyState Duration="180" Power="0.7"/>
+        <SteadyState Duration="180" Power="0.95"/>
+        <SteadyState Duration="300" Power="0.42"/>
+        <SteadyState Duration="1200" Power="0.95"/>
+        <SteadyState Duration="360" Power="0.4"/>
+        <SteadyState Duration="1200" Power="0.95"/>
+        <Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+        <SteadyState Duration="300" Power="0.3"/>
+    </workout>
+</workout_file>

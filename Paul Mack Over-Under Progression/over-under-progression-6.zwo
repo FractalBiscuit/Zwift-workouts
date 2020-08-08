@@ -1,0 +1,37 @@
+<workout_file>
+    <author>Paul Mack</author>
+    <name>Over Under Progression #06</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState Duration="120" Power="0.60000002" pace="1128505344"/>
+        <SteadyState Duration="20" Power="0.69999999" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.44999999" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.60000002" pace="1128505344"/>
+        <SteadyState Duration="20" Power="0.80000001" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.44999999" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.60000002" pace="1128505344"/>
+        <SteadyState Duration="20" Power="0.89999998" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.44999999" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.60000002" pace="1128505344"/>
+        <SteadyState Duration="20" Power="0.89999998" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.44999999" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.60000002" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.44999999" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.60000002" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.44999999" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.60000002" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.2" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.44999999" pace="1128505344"/>
+        <IntervalsT Repeat="4" OnDuration="120" OffDuration="180" OnPower="1.05" OffPower="0.94999999" pace="1128505344" OverUnder="1"/>
+        <SteadyState Duration="300" Power="0.55000001" pace="1128505344"/>
+        <IntervalsT Repeat="4" OnDuration="120" OffDuration="180" OnPower="1.05" OffPower="0.94999999" pace="1128505344" OverUnder="1"/>
+        <SteadyState Duration="447" Power="0.89999998" pace="1128505344"/>
+        <SteadyState Duration="447" Power="0.80000001" pace="1128505344"/>
+        <SteadyState Duration="447" Power="0.69999999" pace="1128505344"/>
+        <SteadyState Duration="447" Power="0.60000002" pace="1128505344"/>
+    </workout>
+</workout_file>

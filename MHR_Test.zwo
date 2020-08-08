@@ -1,0 +1,27 @@
+<workout_file>
+    <author></author>
+    <name>MHR Test</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <Warmup Duration="750" PowerLow="0.25" PowerHigh="0.8"/>
+        <SteadyState Duration="90" Power="0.5"/>
+        <FreeRide Duration="540" FlatRoad="1">
+            <textevent timeoffset="0" message="Ride as hard as possible for 10 minute effort"/>
+            <textevent timeoffset="520" message="For the next spin, ride flat out"/>
+            <textevent timeoffset="530" message="Then after that, get out of the saddle and hammer away"/>
+        </FreeRide>
+        <FreeRide Duration="30" FlatRoad="1">
+            <textevent timeoffset="0" message="Max effort!"/>
+        </FreeRide>
+        <FreeRide Duration="30" FlatRoad="1">
+            <textevent timeoffset="0" message="Sprint!"/>
+        </FreeRide>
+        <SteadyState Duration="30" Power="0.95"/>
+        <SteadyState Duration="30" Power="0.5"/>
+        <SteadyState Duration="60" Power="0.65"/>
+        <Cooldown Duration="600" PowerLow="0.75" PowerHigh="0.25"/>
+    </workout>
+</workout_file>

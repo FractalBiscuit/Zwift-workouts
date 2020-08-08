@@ -1,0 +1,63 @@
+<workout_file>
+    <author>What's on Zwift</author>
+    <name>4 - Born In Winter</name>
+    <description>This workout was created on whatsonzwift.com based on frost. Please note that although the workout represents the course for the entered rider and bike characteristics, in Zwift the speed and distance will not match due to course differences.
+
+Course details: 21.4 mi, 1526 ft elevation
+Time to complete: 1h 41m 16s (12.7 mph avg.)
+Workout details: 160.7 W avg. (1.77 W/kg), NP=185.5 W, IF=0.88, VI=1.15
+</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="1:45"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="121" Power="0.5345" pace="1128505344"/>
+        <Ramp Duration="290" PowerLow="0.59450001" PowerHigh="1.0044999" pace="1128505344"/>
+        <Ramp Duration="120" PowerLow="1.0044999" PowerHigh="0.92449993" pace="1128505344"/>
+        <Ramp Duration="140" PowerLow="0.95449996" PowerHigh="0.68449998" pace="1128505344"/>
+        <SteadyState Duration="126" Power="0.79173058" pace="1128505344"/>
+        <SteadyState Duration="321" Power="1.0144999" pace="1128505344"/>
+        <Ramp Duration="120" PowerLow="0.82449996" PowerHigh="0.57450002" pace="1128505344"/>
+        <Ramp Duration="175" PowerLow="0.87449998" PowerHigh="0.63449997" pace="1128505344"/>
+        <SteadyState Duration="110" Power="0.92146641" pace="1128505344"/>
+        <SteadyState Duration="95" Power="0.67118186" pace="1128505344"/>
+        <SteadyState Duration="125" Power="1.0445" pace="1128505344"/>
+        <SteadyState Duration="85" Power="0.59256965" pace="1128505344"/>
+        <SteadyState Duration="95" Power="0.91690081" pace="1128505344"/>
+        <SteadyState Duration="30" Power="0.48862988" pace="1128505344"/>
+        <SteadyState Duration="148" Power="1.0745" pace="1128505344"/>
+        <SteadyState Duration="86" Power="0.92302364" pace="1128505344"/>
+        <SteadyState Duration="180" Power="0.73449993" pace="1128505344"/>
+        <SteadyState Duration="168" Power="1.0144999" pace="1128505344"/>
+        <Ramp Duration="150" PowerLow="0.87449998" PowerHigh="0.76449996" pace="1128505344"/>
+        <SteadyState Duration="38" Power="0.92321461" pace="1128505344"/>
+        <SteadyState Duration="106" Power="1.0745" pace="1128505344"/>
+        <SteadyState Duration="105" Power="0.91226149" pace="1128505344"/>
+        <SteadyState Duration="65" Power="0.60659611" pace="1128505344"/>
+        <SteadyState Duration="200" Power="1.0144999" pace="1128505344"/>
+        <SteadyState Duration="100" Power="0.55449998" pace="1128505344"/>
+        <SteadyState Duration="322" Power="1.0345" pace="1128505344"/>
+        <SteadyState Duration="65" Power="0.79449993" pace="1128505344"/>
+        <SteadyState Duration="91" Power="0.912368" pace="1128505344"/>
+        <Ramp Duration="180" PowerLow="0.81449997" PowerHigh="0.67449993" pace="1128505344"/>
+        <SteadyState Duration="140" Power="0.55449998" pace="1128505344"/>
+        <Ramp Duration="240" PowerLow="0.99449992" PowerHigh="0.85449994" pace="1128505344"/>
+        <Ramp Duration="190" PowerLow="1.0545" PowerHigh="0.90449995" pace="1128505344"/>
+        <Ramp Duration="295" PowerLow="0.85449994" PowerHigh="0.48449999" pace="1128505344"/>
+        <SteadyState Duration="195" Power="0.76449996" pace="1128505344"/>
+        <SteadyState Duration="90" Power="0.59450001" pace="1128505344"/>
+        <SteadyState Duration="141" Power="1.0164934" pace="1128505344"/>
+        <SteadyState Duration="112" Power="0.93449992" pace="1128505344"/>
+        <SteadyState Duration="45" Power="0.47649339" pace="1128505344"/>
+        <SteadyState Duration="40" Power="0.67752439" pace="1128505344"/>
+        <SteadyState Duration="125" Power="1.0164934" pace="1128505344"/>
+        <SteadyState Duration="65" Power="0.49658605" pace="1128505344"/>
+        <SteadyState Duration="35" Power="0.85550904" pace="1128505344"/>
+        <SteadyState Duration="99" Power="0.94540107" pace="1128505344"/>
+        <SteadyState Duration="34" Power="0.8884145" pace="1128505344"/>
+        <SteadyState Duration="45" Power="1.0545" pace="1128505344"/>
+        <SteadyState Duration="32" Power="0.87434268" pace="1128505344"/>
+        <Cooldown Duration="420" PowerLow="0.75449997" PowerHigh="0.2545" pace="1128505344"/>
+    </workout>
+</workout_file>

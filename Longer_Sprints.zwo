@@ -1,0 +1,44 @@
+<workout_file>
+    <author></author>
+    <name>Longer Sprints</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.75"/>
+        <SteadyState Duration="80" Power="1.15"/>
+        <SteadyState Duration="505" Power="0.82"/>
+        <SteadyState Duration="110" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="225" show_avg="1" FlatRoad="1"/>
+        <SteadyState Duration="210" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="210" show_avg="1" FlatRoad="1"/>
+        <SteadyState Duration="225" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="195" show_avg="1" FlatRoad="1"/>
+        <SteadyState Duration="240" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="165" show_avg="1" FlatRoad="1"/>
+        <SteadyState Duration="270" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="150" show_avg="1" FlatRoad="1"/>
+        <SteadyState Duration="245" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="135" show_avg="1" FlatRoad="1"/>
+        <SteadyState Duration="230" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="105" show_avg="1" FlatRoad="1"/>
+        <SteadyState Duration="215" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="90" show_avg="1" FlatRoad="1"/>
+        <SteadyState Duration="200" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="60" show_avg="1" FlatRoad="1"/>
+        <SteadyState Duration="185" Power="0.5"/>
+        <SteadyState Duration="10" Power="0.5"/>
+        <FreeRide Duration="50" show_avg="1" FlatRoad="1"/>
+        <Cooldown Duration="600" PowerLow="0.75" PowerHigh="0.25"/>
+    </workout>
+</workout_file>

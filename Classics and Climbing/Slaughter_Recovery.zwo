@@ -1,0 +1,18 @@
+<workout_file>
+    <author>Paul deGrandis</author>
+    <name>Slaughter Recovery</name>
+    <description>After a short warm-up, move into an Over-Under 1x20 FTP block, rest, then an onslaught of 40-20s and 5x5 to lift up your tempo recovery ability.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="FTP"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.30000001" PowerHigh="0.80000001"/>
+        <IntervalsT Repeat="3" OnDuration="180.00002" OffDuration="180.00002" OnPower="1.0550001" OffPower="0.95000005" OverUnder="1"/>
+        <SteadyState Duration="900" Power="0.6416955"/>
+        <IntervalsT Repeat="3" OnDuration="40" OffDuration="20" OnPower="2.0493174" OffPower="0.70802045"/>
+        <IntervalsT Repeat="4" OnDuration="300" OffDuration="300" OnPower="1.0561434" OffPower="0.82747442"/>
+        <Cooldown Duration="300" PowerLow="0.75" PowerHigh="0.45000002"/>
+    </workout>
+</workout_file>

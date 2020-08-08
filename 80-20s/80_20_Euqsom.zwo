@@ -1,0 +1,66 @@
+<workout_file>
+    <author></author>
+    <name>80/20 Euqsom</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="1:45"/>
+    </tags>
+    <workout>
+        <FreeRide Duration="600" FlatRoad="1"/>
+        <SteadyState Duration="45" Power="1.2045" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="35" Power="1.2544999" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="40" Power="1.2544999" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="135" Power="1.1544999" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.65449995" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="145" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="44" Power="1.2544999" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="37" Power="1.2544999" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="40" Power="1.2544999" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="135" Power="1.1544999" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="155" Power="1.1044999" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="42" Power="1.2544999" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="30" Power="1.2544999" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="37" Power="1.2544999" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="135" Power="1.1544999" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="165" Power="1.1044999" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="40" Power="1.2544999" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="40" Power="1.2544999" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="35" Power="1.2544999" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.64999998" pace="1128505344"/>
+        <FreeRide Duration="600" FlatRoad="1"/>
+    </workout>
+</workout_file>

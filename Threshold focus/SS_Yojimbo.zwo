@@ -1,0 +1,27 @@
+<workout_file>
+    <author>What's on Zwift</author>
+    <name>SS - Yojimbo</name>
+    <description>This workout was created on whatsonzwift.com based on atm climb. Please note that although the workout represents the course for the entered rider and bike characteristics, in Zwift the speed and distance will not match due to course differences.
+
+Course details: 21.1 mi, 3671 ft elevation
+Time to complete: 3h 15m 8s (6.5 mph avg.)
+Workout details: 159.3 W avg. (1.76 W/kg), NP=189.7 W, IF=0.9, VI=1.19
+</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="3:30"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.2545" PowerHigh="0.75449997" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.88449997" pace="1128505344"/>
+        <IntervalsT Repeat="4" OnDuration="210" OffDuration="210" OnPower="0.90449995" OffPower="0.78449994" pace="1128505344" OverUnder="1"/>
+        <SteadyState Duration="240" Power="0.65449995" pace="1128505344"/>
+        <IntervalsT Repeat="5" OnDuration="280" OffDuration="300" OnPower="0.91449994" OffPower="0.85449994" pace="1128505344" OverUnder="1"/>
+        <SteadyState Duration="240" Power="0.73449993" pace="1128505344"/>
+        <IntervalsT Repeat="6" OnDuration="300" OffDuration="240" OnPower="1.0044999" OffPower="0.89449996" pace="1128505344" OverUnder="1"/>
+        <SteadyState Duration="240" Power="0.75449997" pace="1128505344"/>
+        <IntervalsT Repeat="4" OnDuration="300" OffDuration="300" OnPower="0.95449996" OffPower="0.87449998" pace="1128505344" OverUnder="1"/>
+        <SteadyState Duration="240" Power="0.65449995" pace="1128505344"/>
+        <Cooldown Duration="600" PowerLow="0.75449997" PowerHigh="0.2545" pace="1128505344"/>
+    </workout>
+</workout_file>

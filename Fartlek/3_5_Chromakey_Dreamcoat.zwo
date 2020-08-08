@@ -1,0 +1,36 @@
+<workout_file>
+    <author>Bohren Gullich</author>
+    <name>3 - 5 - Chromakey Dreamcoat</name>
+    <description>Inspired by a real world route. Not much flat riding in the Colorado mountains. Every big effort has an equivalent, but faster, downhill. A 4-minute Vo2 effort will put your heart in the right place. Then the main work, in the middle, involves an out and back down a survey road. After a fun and fast descent you must climb your way back out. Afterwards, all you have to contend with are the 5 rollers. </description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="1:45"/>
+    </tags>
+    <workout>
+        <Warmup Duration="420" PowerLow="0.2545" PowerHigh="0.75449997" pace="1128505344"/>
+        <SteadyState Duration="149" Power="0.80449992" pace="1128505344"/>
+        <SteadyState Duration="351" Power="0.98449993" pace="1128505344"/>
+        <SteadyState Duration="100" Power="1.0845" pace="1128505344"/>
+        <SteadyState Duration="321" Power="0.84449995" pace="1128505344"/>
+        <SteadyState Duration="142" Power="0.74449998" pace="1128505344"/>
+        <SteadyState Duration="159" Power="0.87449998" pace="1128505344"/>
+        <SteadyState Duration="245" Power="1.0845" pace="1128505344"/>
+        <SteadyState Duration="90" Power="0.75454885" pace="1128505344"/>
+        <IntervalsT Repeat="6" OnDuration="45" OffDuration="20" OnPower="0.87449998" OffPower="1.1244999" pace="1128505344"/>
+        <SteadyState Duration="181" Power="0.63449997" pace="1128505344"/>
+        <IntervalsT Repeat="6" OnDuration="60" OffDuration="145" OnPower="1.1044999" OffPower="0.90449995" pace="1128505344"/>
+        <SteadyState Duration="267" Power="0.67449993" pace="1128505344"/>
+        <SteadyState Duration="309" Power="0.82449996" pace="1128505344"/>
+        <SteadyState Duration="111" Power="1.1044999" pace="1128505344"/>
+        <SteadyState Duration="135" Power="0.53715461" pace="1128505344"/>
+        <SteadyState Duration="104" Power="0.97009635" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.54449999" pace="1128505344"/>
+        <SteadyState Duration="115" Power="1.0908701" pace="1128505344"/>
+        <SteadyState Duration="75" Power="0.69449997" pace="1128505344"/>
+        <SteadyState Duration="120" Power="1.1281083" pace="1128505344"/>
+        <SteadyState Duration="106" Power="0.68625903" pace="1128505344"/>
+        <SteadyState Duration="112" Power="0.87266517" pace="1128505344"/>
+        <SteadyState Duration="140" Power="1.1845" pace="1128505344"/>
+        <Cooldown Duration="568" PowerLow="0.75449997" PowerHigh="0.2545" pace="1128505344"/>
+    </workout>
+</workout_file>

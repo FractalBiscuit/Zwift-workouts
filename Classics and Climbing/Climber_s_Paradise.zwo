@@ -1,0 +1,34 @@
+<workout_file>
+    <author>Paul deGrandis</author>
+    <name>Climber's Paradise</name>
+    <description>This features a variation of blocks to help strengthen short and long climbs.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+    </tags>
+    <workout>
+        <Warmup Duration="180" PowerLow="0.40830508" PowerHigh="0.75"/>
+        <SteadyState Duration="120" Power="0.84898305"/>
+        <SteadyState Duration="15" Power="1.2557627"/>
+        <SteadyState Duration="120" Power="0.84898305"/>
+        <SteadyState Duration="30" Power="1.2557627"/>
+        <SteadyState Duration="120" Power="0.84898305"/>
+        <SteadyState Duration="45" Power="1.2557627"/>
+        <SteadyState Duration="180" Power="0.74728811"/>
+        <SteadyState Duration="180" Power="0.84898305"/>
+        <SteadyState Duration="180" Power="0.89983052"/>
+        <SteadyState Duration="180" Power="0.95067799"/>
+        <IntervalsT Repeat="3" OnDuration="150" OffDuration="150" OnPower="1.0693221" OffPower="0.95067799" OverUnder="1"/>
+        <SteadyState Duration="120" Power="0.74728811"/>
+        <SteadyState Duration="10" Power="2.3744068"/>
+        <IntervalsT Repeat="2" OnDuration="300" OffDuration="300" OnPower="0.96762717" OffPower="0.88449997" OverUnder="1"/>
+        <SteadyState Duration="120" Power="0.74728811"/>
+        <IntervalsT Repeat="2" OnDuration="20" OffDuration="60" OnPower="1.4083052" OffPower="0.9167797"/>
+        <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="1.0015255" OffPower="0.8828814" OverUnder="1"/>
+        <IntervalsT Repeat="2" OnDuration="120" OffDuration="120" OnPower="1.1032203" OffPower="0.81508476"/>
+        <SteadyState Duration="300" Power="0.89983052"/>
+        <SteadyState Duration="20" Power="1.5269492"/>
+        <SteadyState Duration="300" Power="0.74728811"/>
+        <Cooldown Duration="300" PowerLow="0.74728811" PowerHigh="0.4761017"/>
+    </workout>
+</workout_file>

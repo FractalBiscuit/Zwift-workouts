@@ -1,0 +1,34 @@
+<workout_file>
+    <author>B.Güllich</author>
+    <name>SS Batman Ramps</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="2:00"/>
+    </tags>
+    <workout>
+        <Warmup Duration="840" PowerLow="0.25" PowerHigh="0.75" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.09" pace="1128505344"/>
+        <Ramp Duration="120" PowerLow="0.75" PowerHigh="0.94999999" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.09" pace="1128505344"/>
+        <IntervalsT Repeat="2" OnDuration="540" OffDuration="150" OnPower="0.94999999" OffPower="0.5" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.09" pace="1128505344"/>
+        <Ramp Duration="600" PowerLow="0.81" PowerHigh="0.94999999" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.09" pace="1128505344"/>
+        <SteadyState Duration="210" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.12" pace="1128505344"/>
+        <Ramp Duration="600" PowerLow="0.81" PowerHigh="0.94999999" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.12" pace="1128505344"/>
+        <SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.17" pace="1128505344"/>
+        <Ramp Duration="600" PowerLow="0.81" PowerHigh="0.94999999" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.17" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.2" pace="1128505344"/>
+        <Ramp Duration="600" PowerLow="0.81" PowerHigh="0.94999999" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.2" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="720" Power="0.81" pace="1128505344"/>
+        <Cooldown Duration="840" PowerLow="0.80000001" PowerHigh="0.25" pace="1128505344"/>
+    </workout>
+</workout_file>

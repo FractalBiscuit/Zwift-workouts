@@ -1,0 +1,75 @@
+<workout_file>
+    <author></author>
+    <name>Spiky 2&amp;3</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <Warmup Duration="575" PowerLow="0.25" PowerHigh="0.62"/>
+        <SteadyState Duration="250" Power="0.63"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="255" Power="0.85"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="250" Power="0.71"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="255" Power="0.76"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="250" Power="0.74"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="255" Power="0.71"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="250" Power="0.5"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="255" Power="0.84"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="250" Power="0.74"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="255" Power="0.63"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="250" Power="0.66"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="255" Power="0.67"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="250" Power="0.76"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="255" Power="0.5"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="250" Power="0.7"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="255" Power="0.8"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="250" Power="0.73"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="255" Power="0.78"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="250" Power="0.75"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="255" Power="0.75"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <SteadyState Duration="250" Power="0.8"/>
+        <SteadyState Duration="20" Power="1.1"/>
+        <SteadyState Duration="15" Power="1.25"/>
+        <Cooldown Duration="590" PowerLow="0.62" PowerHigh="0.25"/>
+    </workout>
+</workout_file>

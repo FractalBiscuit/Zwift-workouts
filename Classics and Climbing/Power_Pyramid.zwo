@@ -1,0 +1,27 @@
+<workout_file>
+    <author>Paul deGrandis</author>
+    <name>Power Pyramid v1</name>
+    <description>Ramping up and down through all your zones.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="1200" PowerLow="0.41109213" PowerHigh="1.3667235"/>
+        <SteadyState Duration="60" Power="0.88890791"/>
+        <SteadyState Duration="60" Power="0.85477817"/>
+        <SteadyState Duration="60.000004" Power="1.0595564"/>
+        <SteadyState Duration="180" Power="1.3667235"/>
+        <SteadyState Duration="300" Power="0.90597272"/>
+        <SteadyState Duration="300" Power="0.85477817"/>
+        <SteadyState Duration="10" Power="2.3906143"/>
+        <SteadyState Duration="180" Power="0.75238907"/>
+        <IntervalsT Repeat="3" OnDuration="40" OffDuration="60" OnPower="1.1960751" OffPower="0.75238907"/>
+        <SteadyState Duration="60" Power="0.7353242"/>
+        <SteadyState Duration="20" Power="2.4588737"/>
+        <SteadyState Duration="120" Power="1.0424916"/>
+        <SteadyState Duration="120" Power="0.90597272"/>
+        <SteadyState Duration="60" Power="0.88890791"/>
+        <SteadyState Duration="30" Power="2.5271332"/>
+        <SteadyState Duration="180" Power="0.75238907"/>
+        <Cooldown Duration="300" PowerLow="0.7353242" PowerHigh="0.41109213"/>
+    </workout>
+</workout_file>

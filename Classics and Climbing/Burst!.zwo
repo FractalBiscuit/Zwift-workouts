@@ -1,0 +1,24 @@
+<workout_file>
+    <author>Paul deGrandis</author>
+    <name>Burst!</name>
+    <description>Don't go out too hard! Two different microburst blocks followed by a 15 minute threshold OU ramp. Conserve your energy.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.50449997" PowerHigh="0.85449994"/>
+        <SteadyState Duration="180" Power="0.65449995"/>
+        <IntervalsT Repeat="15" OnDuration="30" OffDuration="30" OnPower="1.3038206" OffPower="0.70581394"/>
+        <SteadyState Duration="300" Power="0.65449995"/>
+        <IntervalsT Repeat="6" OnDuration="15" OffDuration="15" OnPower="1.6044999" OffPower="0.6045"/>
+        <SteadyState Duration="180" Power="0.95449996"/>
+        <IntervalsT Repeat="4" OnDuration="15" OffDuration="15" OnPower="1.6044999" OffPower="0.6045"/>
+        <SteadyState Duration="300" Power="0.65449995"/>
+        <SteadyState Duration="180" Power="0.95449996"/>
+        <SteadyState Duration="180" Power="1.0944999"/>
+        <SteadyState Duration="180" Power="0.95449996"/>
+        <SteadyState Duration="120" Power="1.2544999"/>
+        <SteadyState Duration="180" Power="0.95449996"/>
+        <SteadyState Duration="60" Power="1.3544999"/>
+        <Cooldown Duration="600" PowerLow="0.75449997" PowerHigh="0.45449999"/>
+    </workout>
+</workout_file>

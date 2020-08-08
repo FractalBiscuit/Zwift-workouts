@@ -1,0 +1,31 @@
+<workout_file>
+    <author>Paul Mack</author>
+    <name>Vo2 Progression #01</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState Duration="180" Power="0.60000002" pace="1128505344"/>
+        <SteadyState Duration="30" Power="0.94999999" pace="1128505344"/>
+        <SteadyState Duration="55" Power="0.44999999" pace="1128505344"/>
+        <SteadyState Duration="180" Power="0.60000002" pace="1128505344"/>
+        <SteadyState Duration="30" Power="0.94999999" pace="1128505344"/>
+        <SteadyState Duration="55" Power="0.44999999" pace="1128505344"/>
+        <SteadyState Duration="180" Power="0.60000002" pace="1128505344"/>
+        <SteadyState Duration="30" Power="0.94999999" pace="1128505344"/>
+        <SteadyState Duration="55" Power="0.44999999" pace="1128505344"/>
+        <SteadyState Duration="180" Power="0.60000002" pace="1128505344"/>
+        <SteadyState Duration="30" Power="0.94999999" pace="1128505344"/>
+        <SteadyState Duration="55" Power="0.44999999" pace="1128505344"/>
+        <SteadyState Duration="180" Power="0.60000002" pace="1128505344"/>
+        <SteadyState Duration="30" Power="0.94999999" pace="1128505344"/>
+        <SteadyState Duration="55" Power="0.44999999" pace="1128505344"/>
+        <IntervalsT Repeat="10" OnDuration="15" OffDuration="15" OnPower="1.2" OffPower="0.55000001" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.55000001" pace="1128505344"/>
+        <IntervalsT Repeat="10" OnDuration="15" OffDuration="15" OnPower="1.2" OffPower="0.55000001" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.55000001" pace="1128505344"/>
+        <IntervalsT Repeat="10" OnDuration="15" OffDuration="15" OnPower="1.2" OffPower="0.55000001" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.55000001" pace="1128505344"/>
+        <IntervalsT Repeat="4" OnDuration="360" OffDuration="180" OnPower="0.89999998" OffPower="0.55000001" pace="1128505344"/>
+    </workout>
+</workout_file>

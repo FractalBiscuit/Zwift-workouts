@@ -1,0 +1,26 @@
+<workout_file>
+    <author>Paul deGrandis</author>
+    <name>SST (Modified Short)</name>
+    <description>Sweet Spot Training (or SST for short) will give great bang for buck. Training at around 90 percent of your threshhold (aka the Sweet Spot)  is useful because you can spend quite a bit of time there without building up undue amounts of training stress. You can do this workout as much as you'd like and watch your FTP rise over time.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.39999998" PowerHigh="0.85000002">
+            <textevent timeoffset="30.000002" message="Welcome to SST (Short)"/>
+            <textevent timeoffset="41.000004" message="SST work is great for improving base fitness."/>
+            <textevent timeoffset="268" message="Ok - 40 minutes of SST coming up"/>
+            <textevent timeoffset="278" message="We&apos;ll vary the pace a bit every 5 minutes"/>
+            <textevent timeoffset="290" message="Aim for a cadence of 90-95rpm"/>
+        </Warmup>
+        <IntervalsT Repeat="2" OnDuration="300" OffDuration="300" OnPower="0.9608475" OffPower="0.88627124" OverUnder="1">
+            <textevent timeoffset="1200" message="Half way done."/>
+        </IntervalsT>
+        <SteadyState Duration="10" Power="1.6964407"/>
+        <SteadyState Duration="60" Power="1.0523729"/>
+        <SteadyState Duration="60" Power="0.98457628"/>
+        <IntervalsT Repeat="2" OnDuration="300" OffDuration="300" OnPower="0.9608475" OffPower="0.88627124" OverUnder="1">
+            <textevent timeoffset="853.99982" message="It&apos;s all downhill from here"/>
+        </IntervalsT>
+        <Cooldown Duration="300" PowerLow="0.75" PowerHigh="0.54999995"/>
+    </workout>
+</workout_file>

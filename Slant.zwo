@@ -1,0 +1,47 @@
+<workout_file>
+    <author>B.Güllich</author>
+    <name>Slant</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="1:45"/>
+    </tags>
+    <workout>
+        <FreeRide Duration="600" FlatRoad="1"/>
+        <SteadyState Duration="1200" Power="0.85449994" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="135" Power="1.1544999" pace="1128505344"/>
+        <SteadyState Duration="60.000004" Power="0.65449995" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="145" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="60.000004" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="44.000004" Power="1.2544999" pace="1128505344"/>
+        <SteadyState Duration="60.000004" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="37" Power="1.2544999" pace="1128505344"/>
+        <SteadyState Duration="60.000004" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="135" Power="1.1544999" pace="1128505344"/>
+        <SteadyState Duration="60.000004" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="155" Power="1.1044999" pace="1128505344"/>
+        <SteadyState Duration="60.000004" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="840" Power="0.83449996" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="75" Power="1.1544999" pace="1128505344"/>
+        <SteadyState Duration="60.000004" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="165" Power="1.1044999" pace="1128505344"/>
+        <SteadyState Duration="60.000004" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="40" Power="1.2544999" pace="1128505344"/>
+        <SteadyState Duration="60.000004" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="40" Power="1.2544999" pace="1128505344"/>
+        <SteadyState Duration="60.000004" Power="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+        <FreeRide Duration="600" FlatRoad="1"/>
+    </workout>
+</workout_file>

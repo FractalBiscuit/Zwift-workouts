@@ -1,0 +1,28 @@
+<workout_file>
+    <author>B. Gulick</author>
+    <name>2 &amp; 3 - In White Rooms</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="1:45"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.65449995" pace="1128505344"/>
+        <Ramp Duration="180" PowerLow="0.79449993" PowerHigh="0.56449997" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.95449996" pace="1128505344"/>
+        <SteadyState Duration="600" Power="0.65449995" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.84449995" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.95449996" pace="1128505344"/>
+        <IntervalsT Repeat="2" OnDuration="540" OffDuration="480" OnPower="0.75449997" OffPower="0.72449994" pace="1128505344" OverUnder="1"/>
+        <SteadyState Duration="60" Power="0.95449996" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.83449996" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.95449996" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.76449996" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.95449996" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.81449997" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.7276997" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.66508514" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.80449992" pace="1128505344"/>
+        <Cooldown Duration="600" PowerLow="0.75449997" PowerHigh="0.2545" pace="1128505344"/>
+    </workout>
+</workout_file>

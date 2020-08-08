@@ -1,0 +1,37 @@
+<workout_file>
+    <author></author>
+    <name>Ericsson +1</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.69" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.89999998" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.40000001" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.47" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.55000001" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.40000001" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.94" pace="1128505344"/>
+        <SteadyState Duration="180" Power="0.89999998" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.88" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.40000001" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.94" pace="1128505344"/>
+        <SteadyState Duration="180" Power="0.89999998" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.88" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.40000001" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.94" pace="1128505344"/>
+        <SteadyState Duration="180" Power="0.89999998" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.88" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.40450001" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.94" pace="1128505344"/>
+        <SteadyState Duration="180" Power="0.89999998" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.88449997" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.40450001" pace="0"/>
+        <SteadyState Duration="240" Power="0.94449997" pace="0"/>
+        <SteadyState Duration="180" Power="0.90449995" pace="0"/>
+        <SteadyState Duration="60" Power="0.88449997" pace="0"/>
+        <Cooldown Duration="240" PowerLow="0.40000001" PowerHigh="0.30000001" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,44 @@
+<workout_file>
+    <author></author>
+    <name>SST #04 2x20 Spicy</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <Warmup Duration="120" PowerLow="0.25" PowerHigh="0.5"/>
+        <SteadyState Duration="120" Power="0.5"/>
+        <SteadyState Duration="15" Power="1.1"/>
+        <SteadyState Duration="120" Power="0.65"/>
+        <SteadyState Duration="10" Power="1.2"/>
+        <SteadyState Duration="60" Power="0.4"/>
+        <SteadyState Duration="15" Power="1.15"/>
+        <SteadyState Duration="60" Power="0.9"/>
+        <SteadyState Duration="10" Power="1.3"/>
+        <SteadyState Duration="60" Power="0.5"/>
+        <SteadyState Duration="200" Power="0.89"/>
+        <SteadyState Duration="20" Power="1.15"/>
+        <SteadyState Duration="200" Power="0.89"/>
+        <SteadyState Duration="20" Power="1.15"/>
+        <SteadyState Duration="200" Power="0.89"/>
+        <SteadyState Duration="20" Power="1.15"/>
+        <SteadyState Duration="200" Power="0.89"/>
+        <SteadyState Duration="20" Power="1.15"/>
+        <SteadyState Duration="200" Power="0.89"/>
+        <SteadyState Duration="20" Power="1.15"/>
+        <SteadyState Duration="200" Power="0.89"/>
+        <SteadyState Duration="300" Power="0.5"/>
+        <SteadyState Duration="200" Power="0.89"/>
+        <SteadyState Duration="20" Power="1.15"/>
+        <SteadyState Duration="200" Power="0.89"/>
+        <SteadyState Duration="20" Power="1.15"/>
+        <SteadyState Duration="200" Power="0.89"/>
+        <SteadyState Duration="20" Power="1.15"/>
+        <SteadyState Duration="200" Power="0.89"/>
+        <SteadyState Duration="20" Power="1.15"/>
+        <SteadyState Duration="200" Power="0.89"/>
+        <SteadyState Duration="20" Power="1.15"/>
+        <SteadyState Duration="200" Power="0.89"/>
+        <Cooldown Duration="600" PowerLow="0.65" PowerHigh="0.25"/>
+    </workout>
+</workout_file>

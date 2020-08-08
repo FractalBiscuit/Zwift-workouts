@@ -1,0 +1,25 @@
+<workout_file>
+    <author></author>
+    <name>Street Halo</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <SteadyState Duration="120" Power="0.4"/>
+        <SteadyState Duration="120" Power="0.45"/>
+        <SteadyState Duration="120" Power="0.5"/>
+        <SteadyState Duration="180" Power="0.6"/>
+        <SteadyState Duration="120" Power="1"/>
+        <IntervalsT Repeat="2" OnDuration="95" OffDuration="60" OnPower="1.17" OffPower="0.4"/>
+        <IntervalsT Repeat="2" OnDuration="180" OffDuration="40" OnPower="0.8" OffPower="0.4"/>
+        <SteadyState Duration="240" Power="0.45"/>
+        <SteadyState Duration="90" Power="1.05"/>
+        <IntervalsT Repeat="2" OnDuration="105" OffDuration="60" OnPower="1.1" OffPower="0.4"/>
+        <IntervalsT Repeat="2" OnDuration="180" OffDuration="40" OnPower="0.8" OffPower="0.4"/>
+        <SteadyState Duration="240" Power="0.45"/>
+        <IntervalsT Repeat="3" OnDuration="115" OffDuration="60" OnPower="1.1" OffPower="0.4"/>
+        <IntervalsT Repeat="2" OnDuration="180" OffDuration="40" OnPower="0.8" OffPower="0.4"/>
+        <Cooldown Duration="480" PowerLow="0.4" PowerHigh="0.2"/>
+    </workout>
+</workout_file>

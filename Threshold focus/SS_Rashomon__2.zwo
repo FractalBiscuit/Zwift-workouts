@@ -1,0 +1,24 @@
+<workout_file>
+    <author>What's on Zwift</author>
+    <name>SS - Rashomon /2</name>
+    <description>This workout was created on whatsonzwift.com based on "Crest Climb." 
+
+This version shrinks everything by half.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="2:15"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.25449997" PowerHigh="0.75449997" pace="1128505344"/>
+        <Ramp Duration="900" PowerLow="0.75449997" PowerHigh="0.90449995" pace="1128505344"/>
+        <SteadyState Duration="120.00001" Power="0.50449997" pace="1128505344"/>
+        <IntervalsT Repeat="3" OnDuration="300" OffDuration="300" OnPower="0.95449996" OffPower="0.85449994" pace="1128505344" OverUnder="1"/>
+        <Ramp Duration="150" PowerLow="0.75449997" PowerHigh="0.57450002" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.76449996" pace="1128505344"/>
+        <IntervalsT Repeat="2" OnDuration="420" OffDuration="315" OnPower="0.93449992" OffPower="0.83449996" pace="1128505344" OverUnder="1"/>
+        <SteadyState Duration="300" Power="0.57450002" pace="1128505344"/>
+        <IntervalsT Repeat="2" OnDuration="420" OffDuration="300" OnPower="0.91449994" OffPower="0.81449997" pace="1128505344" OverUnder="1"/>
+        <SteadyState Duration="120.00001" Power="1.0944999" pace="1128505344"/>
+        <Cooldown Duration="900.00006" PowerLow="0.75449997" PowerHigh="0.25449997" pace="1128505344"/>
+    </workout>
+</workout_file>

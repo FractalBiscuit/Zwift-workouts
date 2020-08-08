@@ -1,0 +1,33 @@
+<workout_file>
+      <name>Sufferfest - Rubber Glove</name>
+    <description>Designed by the expert coaches at Dig Deep Coaching, this one hour workout is specifically designed to get you ready for, and then do, a 20 minute cycling Functional Threshold Performance test. </description>
+    <workout>
+        <SteadyState Duration="20" PowerLow="0.30450001" PowerHigh="0.30450001">
+            <textevent timeoffset="0" message="Have you paused Rubber Glove at 20 secs?"/>
+            <textevent timeoffset="10" message="Unpause video at the upcoming arch"/>
+        </SteadyState>
+        <SteadyState Duration="327" PowerLow="0.30450001" PowerHigh="0.30450001"/>
+        <SteadyState Duration="182" PowerLow="0.56" PowerHigh="0.56"/>
+        <SteadyState Duration="181" PowerLow="0.61000001" PowerHigh="0.61000001"/>
+        <SteadyState Duration="180" PowerLow="0.70999998" PowerHigh="0.70999998"/>
+        <SteadyState Duration="181" PowerLow="0.75999999" PowerHigh="0.75999999"/>
+        <SteadyState Duration="180" PowerLow="0.85000002" PowerHigh="0.85000002"/>
+        <SteadyState Duration="181" PowerLow="0.89999998" PowerHigh="0.89999998"/>
+        <SteadyState Duration="180" PowerLow="0.40450001" PowerHigh="0.40450001"/>
+        <IntervalsT Repeat="4" OnDuration="60" OffDuration="60" PowerOnLow="1.0044999" PowerOnHigh="1.0044999" PowerOffLow="0.40450001" PowerOffHigh="0.40450001"/>
+        <SteadyState Duration="120" PowerLow="0.40450001" PowerHigh="0.40450001">
+            <textevent timeoffset="60" message="20min FTP in 1 minute"/>
+        </SteadyState>
+        <FreeRide Duration="1200" FlatRoad="1">
+            <textevent timeoffset="300" message="5 minutes down, 15 to go...."/>
+            <textevent timeoffset="600" message="Half way...."/>
+            <textevent timeoffset="1020" message="3 mins to go"/>
+            <textevent timeoffset="900" message="15 minutes down 5 to go"/>
+            <textevent timeoffset="1080" message="2 mins to go"/>
+            <textevent timeoffset="1140" message="last minute..."/>
+            <textevent timeoffset="1170" message="30 seconds"/>
+            <textevent timeoffset="1185" message="15 seconds"/>
+        </FreeRide>
+        <SteadyState Duration="195" PowerLow="0.40450001" PowerHigh="0.40450001"/>
+    </workout>
+</workout_file>

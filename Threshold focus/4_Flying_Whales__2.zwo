@@ -1,0 +1,41 @@
+<workout_file>
+    <author>What's on Zwift</author>
+    <name>4 - Flying Whales /2</name>
+    <description>This workout was created on whatsonzwift.com based on fingerueures. Please note that although the workout represents the course for the entered rider and bike characteristics, in Zwift the speed and distance will not match due to course differences.
+
+Course details: 25.7 mi, 2989 ft elevation
+Time to complete: 2h 55m 12s (8.8 mph avg.)
+Workout details: 164.1 W avg. (1.81 W/kg), NP=189.8 W, IF=0.9, VI=1.16
+</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="1:45"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.25449997" PowerHigh="0.75449997" pace="1128505344"/>
+        <Ramp Duration="240" PowerLow="0.82449996" PowerHigh="0.89449996" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.95449996" pace="1128505344"/>
+        <SteadyState Duration="120.00001" Power="0.59450001" pace="1128505344"/>
+        <Ramp Duration="360" PowerLow="0.75449997" PowerHigh="0.92449993" pace="1128505344"/>
+        <SteadyState Duration="90" Power="0.59450001" pace="1128505344"/>
+        <Ramp Duration="240" PowerLow="0.82449996" PowerHigh="0.84449995" pace="1128505344"/>
+        <SteadyState Duration="180" Power="0.90449995" pace="1128505344"/>
+        <Ramp Duration="120" PowerLow="0.6045" PowerHigh="0.80449992" pace="1128505344"/>
+        <Ramp Duration="120" PowerLow="0.84449995" PowerHigh="0.87449992" pace="1128505344"/>
+        <SteadyState Duration="330" Power="0.95449996" pace="1128505344"/>
+        <SteadyState Duration="90" Power="0.63449997" pace="1128505344"/>
+        <Ramp Duration="180" PowerLow="0.79449993" PowerHigh="0.83449996" pace="1128505344"/>
+        <Ramp Duration="90" PowerLow="0.76449996" PowerHigh="0.89449996" pace="1128505344"/>
+        <SteadyState Duration="90" Power="0.59450001" pace="1128505344"/>
+        <SteadyState Duration="90" Power="0.82449996" pace="1128505344"/>
+        <SteadyState Duration="240" Power="1.0044999" pace="1128505344"/>
+        <SteadyState Duration="120.00001" Power="0.56449997" pace="1128505344"/>
+        <SteadyState Duration="420" Power="0.92449993" pace="1128505344"/>
+        <SteadyState Duration="90" Power="0.70449996" pace="1128505344"/>
+        <SteadyState Duration="360" Power="0.95449996" pace="1128505344"/>
+        <SteadyState Duration="90" Power="0.59450001" pace="1128505344"/>
+        <SteadyState Duration="600" Power="0.95449996" pace="1128505344"/>
+        <SteadyState Duration="90" Power="0.85449994" pace="1128505344"/>
+        <Cooldown Duration="600" PowerLow="0.75" PowerHigh="0.25" pace="1128505344"/>
+    </workout>
+</workout_file>

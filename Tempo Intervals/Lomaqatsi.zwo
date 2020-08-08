@@ -1,0 +1,25 @@
+<workout_file>
+    <author></author>
+    <name>Lomaqatsi</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="480" PowerLow="0.2" PowerHigh="0.64999998" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.15" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.85000002" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.40000001" pace="1128505344"/>
+        <SteadyState Duration="35" Power="1.4" pace="1128505344"/>
+        <SteadyState Duration="480" Power="0.80000001" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.40000001" pace="1128505344"/>
+        <SteadyState Duration="60" Power="1.25" pace="1128505344"/>
+        <SteadyState Duration="450" Power="0.80000001" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.34999999" pace="1128505344"/>
+        <SteadyState Duration="85" Power="1.15" pace="1128505344"/>
+        <SteadyState Duration="420" Power="0.80000001" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.30000001" pace="1128505344"/>
+        <SteadyState Duration="110" Power="1.1" pace="1128505344"/>
+        <SteadyState Duration="390" Power="0.80000001" pace="1128505344"/>
+        <Cooldown Duration="480" PowerLow="0.60000002" PowerHigh="0.2" pace="1128505344"/>
+    </workout>
+</workout_file>

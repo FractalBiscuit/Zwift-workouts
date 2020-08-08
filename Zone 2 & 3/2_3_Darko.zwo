@@ -1,0 +1,48 @@
+<workout_file>
+    <author>What's on Zwift</author>
+    <name>2 &amp; 3 - Darko</name>
+    <description>This workout was created on whatsonzwift.com based on edgeweird. Please note that although the workout represents the course for the entered rider and bike characteristics, in Zwift the speed and distance will not match due to course differences.
+
+Course details: 29.3 mi, 1988 ft elevation
+Time to complete: 2h 46m 46s (10.6 mph avg.)
+Workout details: 135.3 W avg. (1.49 W/kg), NP=154 W, IF=0.73, VI=1.14
+</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="1:30"/>
+    </tags>
+    <workout>
+        <Warmup Duration="900" PowerLow="0.2545" PowerHigh="0.64449996" pace="1128505344"/>
+        <SteadyState Duration="91" Power="0.63264126" pace="1128505344"/>
+        <SteadyState Duration="25" Power="0.45449999" pace="1128505344"/>
+        <SteadyState Duration="123" Power="0.69448203" pace="1128505344"/>
+        <SteadyState Duration="226" Power="0.61697751" pace="1128505344"/>
+        <SteadyState Duration="95" Power="0.68726969" pace="1128505344"/>
+        <SteadyState Duration="30" Power="0.76253301" pace="1128505344"/>
+        <SteadyState Duration="388" Power="0.8196066" pace="1128505344"/>
+        <SteadyState Duration="18" Power="0.79601413" pace="1128505344"/>
+        <SteadyState Duration="40" Power="0.61997008" pace="1128505344"/>
+        <SteadyState Duration="135" Power="0.72255659" pace="1128505344"/>
+        <SteadyState Duration="50" Power="0.60898477" pace="1128505344"/>
+        <SteadyState Duration="49" Power="0.65235513" pace="1128505344"/>
+        <SteadyState Duration="22" Power="0.72964936" pace="1128505344"/>
+        <SteadyState Duration="327" Power="0.8196066" pace="1128505344"/>
+        <SteadyState Duration="10" Power="0.65769631" pace="1128505344"/>
+        <SteadyState Duration="406" Power="0.76762599" pace="1128505344"/>
+        <SteadyState Duration="140" Power="0.7120797" pace="1128505344"/>
+        <SteadyState Duration="40" Power="0.61704797" pace="1128505344"/>
+        <SteadyState Duration="114" Power="0.70390499" pace="1128505344"/>
+        <SteadyState Duration="12" Power="0.74638098" pace="1128505344"/>
+        <SteadyState Duration="135" Power="1.0545" pace="1128505344"/>
+        <SteadyState Duration="53" Power="0.78182322" pace="1128505344"/>
+        <SteadyState Duration="85" Power="0.69183755" pace="1128505344"/>
+        <SteadyState Duration="20" Power="0.46646243" pace="1128505344"/>
+        <SteadyState Duration="46" Power="0.62776476" pace="1128505344"/>
+        <SteadyState Duration="389" Power="0.71037662" pace="1128505344"/>
+        <SteadyState Duration="537" Power="0.81449997" pace="1128505344"/>
+        <SteadyState Duration="65" Power="0.58811241" pace="1128505344"/>
+        <SteadyState Duration="143" Power="0.70449996" pace="1128505344"/>
+        <SteadyState Duration="206" Power="0.66502082" pace="1128505344"/>
+        <Cooldown Duration="600" PowerLow="0.75449997" PowerHigh="0.2545" pace="1128505344"/>
+    </workout>
+</workout_file>

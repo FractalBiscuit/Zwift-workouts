@@ -1,0 +1,28 @@
+<workout_file>
+    <author>B.Güllich</author>
+    <name>Condensing Overunders</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="1:15"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.25" PowerHigh="0.75" pace="1128505344"/>
+        <SteadyState Duration="120" Power="1.09" pace="1128505344"/>
+        <SteadyState Duration="60" Power="1.25" pace="1128505344"/>
+        <SteadyState Duration="30" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="180" Power="0.69999999" pace="1128505344"/>
+        <IntervalsT Repeat="4" OnDuration="180" OffDuration="60" OnPower="0.91000003" OffPower="1.12" pace="1128505344"/>
+        <SteadyState Duration="30" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="180" Power="0.69999999" pace="1128505344"/>
+        <SteadyState Duration="30" Power="0.5" pace="1128505344"/>
+        <IntervalsT Repeat="5" OnDuration="120" OffDuration="60" OnPower="0.91000003" OffPower="1.12" pace="1128505344"/>
+        <SteadyState Duration="30" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="180" Power="0.69999999" pace="1128505344"/>
+        <SteadyState Duration="30" Power="0.5" pace="1128505344"/>
+        <IntervalsT Repeat="6" OnDuration="60" OffDuration="60" OnPower="0.91000003" OffPower="1.12" pace="1128505344"/>
+        <SteadyState Duration="30" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="180" Power="0.69999999" pace="1128505344"/>
+        <Cooldown Duration="600" PowerLow="0.75" PowerHigh="0.25" pace="1128505344"/>
+    </workout>
+</workout_file>

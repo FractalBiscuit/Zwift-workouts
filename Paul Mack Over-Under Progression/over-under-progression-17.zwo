@@ -1,0 +1,66 @@
+<workout_file>
+	<author>Paul Mack</author>
+	<name>Over Under Progression #17</name>
+	<description></description>
+	<sportType>bike</sportType>
+	<tags/>
+	<workout>
+		<SteadyState Duration="120" PowerLow="0.6" PowerHigh="0.6">
+		</SteadyState>
+		<SteadyState Duration="20" PowerLow="0.7" PowerHigh="0.7">
+		</SteadyState>
+		<SteadyState Duration="60" PowerLow="0.45" PowerHigh="0.45">
+		</SteadyState>
+		<SteadyState Duration="120" PowerLow="0.6" PowerHigh="0.6">
+		</SteadyState>
+		<SteadyState Duration="20" PowerLow="0.8" PowerHigh="0.8">
+		</SteadyState>
+		<SteadyState Duration="60" PowerLow="0.45" PowerHigh="0.45">
+		</SteadyState>
+		<SteadyState Duration="120" PowerLow="0.6" PowerHigh="0.6">
+		</SteadyState>
+		<SteadyState Duration="20" PowerLow="0.9" PowerHigh="0.9">
+		</SteadyState>
+		<SteadyState Duration="60" PowerLow="0.45" PowerHigh="0.45">
+		</SteadyState>
+		<SteadyState Duration="120" PowerLow="0.6" PowerHigh="0.6">
+		</SteadyState>
+		<SteadyState Duration="20" PowerLow="0.9" PowerHigh="0.9">
+		</SteadyState>
+		<SteadyState Duration="60" PowerLow="0.45" PowerHigh="0.45">
+		</SteadyState>
+		<SteadyState Duration="120" PowerLow="0.6" PowerHigh="0.6">
+		</SteadyState>
+		<SteadyState Duration="20" PowerLow="1" PowerHigh="1">
+		</SteadyState>
+		<SteadyState Duration="60" PowerLow="0.45" PowerHigh="0.45">
+		</SteadyState>
+		<SteadyState Duration="120" PowerLow="0.6" PowerHigh="0.6">
+		</SteadyState>
+		<SteadyState Duration="20" PowerLow="1.1" PowerHigh="1.1">
+		</SteadyState>
+		<SteadyState Duration="60" PowerLow="0.45" PowerHigh="0.45">
+		</SteadyState>
+		<SteadyState Duration="120" PowerLow="0.6" PowerHigh="0.6">
+		</SteadyState>
+		<SteadyState Duration="20" PowerLow="1.2" PowerHigh="1.2">
+		</SteadyState>
+		<SteadyState Duration="60" PowerLow="0.45" PowerHigh="0.45">
+		</SteadyState>
+        <IntervalsT Repeat="4" OnDuration="60" OffDuration="180" OnPower="1.15" OffPower="0.95" />
+		<SteadyState Duration="300" PowerLow="0.55" PowerHigh="0.55">
+		</SteadyState>
+        <IntervalsT Repeat="4" OnDuration="60" OffDuration="180" OnPower="1.15" OffPower="0.95" />
+		<SteadyState Duration="300" PowerLow="0.55" PowerHigh="0.55">
+		</SteadyState>
+        <IntervalsT Repeat="4" OnDuration="60" OffDuration="180" OnPower="1.1" OffPower="0.95" />
+		<SteadyState Duration="130" PowerLow="0.9" PowerHigh="0.9">
+		</SteadyState>
+		<SteadyState Duration="130" PowerLow="0.8" PowerHigh="0.8">
+		</SteadyState>
+		<SteadyState Duration="130" PowerLow="0.7" PowerHigh="0.7">
+		</SteadyState>
+		<SteadyState Duration="130" PowerLow="0.6" PowerHigh="0.6">
+		</SteadyState>
+	</workout>
+</workout_file>

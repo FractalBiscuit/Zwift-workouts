@@ -1,0 +1,35 @@
+<workout_file>
+    <author>Paul deGrandis</author>
+    <name>Make the break</name>
+    <description>Based on Momentum Cycling's "War of Attrition." This work-out simulates you being in a 6 person breakaway that then was thinned down to 5,4,3 and then just 2 racers.
+    
+    
+    
+    </description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="FTP"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.40449998" PowerHigh="0.75449991"/>
+        <IntervalsT Repeat="3" OnDuration="30.000002" OffDuration="90.000008" OnPower="1.0044999" OffPower="0.70449996"/>
+        <SteadyState Duration="180.00002" Power="0.55449998"/>
+        <SteadyState Duration="120" Power="1.1544999">
+            <textevent timeoffset="0" message="Work Hard to Get into the Break"/>
+        </SteadyState>
+        <IntervalsT Repeat="6" OnDuration="15" OffDuration="75" OnPower="1.0557628" OffPower="0.90322036"/>
+        <SteadyState Duration="180" Power="0.74728811"/>
+        <IntervalsT Repeat="5" OnDuration="30" OffDuration="120" OnPower="1.0545" OffPower="0.95449996" OverUnder="1"/>
+        <SteadyState Duration="180" Power="0.73033899"/>
+        <IntervalsT Repeat="6" OnDuration="30" OffDuration="90" OnPower="1.0545" OffPower="0.95449996" OverUnder="1"/>
+        <SteadyState Duration="180" Power="0.6964407"/>
+        <IntervalsT Repeat="6" OnDuration="20" OffDuration="40" OnPower="1.1044999" OffPower="0.95449996" OverUnder="1"/>
+        <SteadyState Duration="180" Power="0.62864405"/>
+        <IntervalsT Repeat="5" OnDuration="30" OffDuration="30" OnPower="1.1032203" OffPower="1.0049152" OverUnder="1"/>
+        <SteadyState Duration="30" Power="1.5044999">
+            <textevent timeoffset="0" message="All out sprint for the finish!!"/>
+        </SteadyState>
+        <Cooldown Duration="720" PowerLow="0.65449995" PowerHigh="0.40450001"/>
+    </workout>
+</workout_file>

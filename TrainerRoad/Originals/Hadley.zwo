@@ -1,0 +1,43 @@
+<workout_file>
+    <author></author>
+    <name>Hadley</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.56999999" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.63999999" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.40000001" pace="1128505344"/>
+        <SteadyState Duration="375" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="525" Power="0.62" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.67000002" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.75" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.80000001" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.75" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.67000002" pace="1128505344"/>
+        <SteadyState Duration="525" Power="0.62" pace="1128505344"/>
+        <SteadyState Duration="375" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.44999999" pace="1128505344"/>
+        <SteadyState Duration="375" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="525" Power="0.62" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.67000002" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.75" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.80000001" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.75" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.67000002" pace="1128505344"/>
+        <SteadyState Duration="525" Power="0.62" pace="1128505344"/>
+        <SteadyState Duration="375" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.44999999" pace="1128505344"/>
+        <SteadyState Duration="375" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="525" Power="0.62" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.67000002" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.75" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.80000001" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.75" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.67000002" pace="1128505344"/>
+        <SteadyState Duration="525" Power="0.62" pace="1128505344"/>
+        <SteadyState Duration="375" Power="0.5" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.44999999" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,39 @@
+<workout_file>
+    <author></author>
+    <name>Swing Easy</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <SteadyState Duration="120" Power="0.4"/>
+        <SteadyState Duration="240" Power="0.5"/>
+        <SteadyState Duration="260" Power="0.65"/>
+        <SteadyState Duration="60" Power="1.15"/>
+        <SteadyState Duration="60" Power="0.4"/>
+        <SteadyState Duration="35" Power="1.3"/>
+        <SteadyState Duration="120" Power="0.4"/>
+        <SteadyState Duration="45" Power="0.8"/>
+        <SteadyState Duration="290" Power="1.1"/>
+        <SteadyState Duration="45" Power="0.8"/>
+        <SteadyState Duration="360" Power="0.55"/>
+        <SteadyState Duration="45" Power="0.8"/>
+        <SteadyState Duration="280" Power="1.1"/>
+        <SteadyState Duration="45" Power="0.8"/>
+        <SteadyState Duration="330" Power="0.54"/>
+        <SteadyState Duration="45" Power="0.8"/>
+        <SteadyState Duration="270" Power="1.1"/>
+        <SteadyState Duration="45" Power="0.8"/>
+        <SteadyState Duration="320" Power="0.53"/>
+        <SteadyState Duration="45" Power="0.8"/>
+        <SteadyState Duration="260" Power="1.1"/>
+        <SteadyState Duration="45" Power="0.8"/>
+        <SteadyState Duration="310" Power="0.52"/>
+        <SteadyState Duration="45" Power="0.8"/>
+        <SteadyState Duration="250" Power="1.1"/>
+        <SteadyState Duration="45" Power="0.8"/>
+        <SteadyState Duration="300" Power="0.51"/>
+        <SteadyState Duration="600" Power="0.92"/>
+        <Cooldown Duration="600" PowerLow="0.6" PowerHigh="0.25"/>
+    </workout>
+</workout_file>

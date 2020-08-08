@@ -1,0 +1,29 @@
+<workout_file>
+    <author>Paul deGrandis</author>
+    <name>Threshold Endurance</name>
+    <description>This exercise is designed to increase your comfort at and around your threshold.  Use the "Free Ride" blocks for skills/drills and any specific zone you're looking to strengthen, but manage your energy!</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.4761017" PowerHigh="0.75067794"/>
+        <SteadyState Duration="120" Power="1.0693221"/>
+        <SteadyState Duration="180" Power="1.0523729"/>
+        <SteadyState Duration="300" Power="1.0184746"/>
+        <SteadyState Duration="300" Power="1.0354238"/>
+        <SteadyState Duration="30" Power="1.1032203"/>
+        <SteadyState Duration="300" Power="1.0184746"/>
+        <SteadyState Duration="60" Power="1.1032203"/>
+        <SteadyState Duration="120" Power="0.95067799"/>
+        <SteadyState Duration="300" Power="1.0184746"/>
+        <SteadyState Duration="120" Power="0.8828814"/>
+        <SteadyState Duration="360" Power="0.93372887"/>
+        <SteadyState Duration="360" Power="0.74728811"/>
+        <SteadyState Duration="360" Power="0.89983052"/>
+        <FreeRide Duration="300" FlatRoad="1"/>
+        <SteadyState Duration="15" Power="1.6964407"/>
+        <FreeRide Duration="300" FlatRoad="1"/>
+        <IntervalsT Repeat="3" OnDuration="90" OffDuration="210" OnPower="1.1879661" OffPower="0.81508476"/>
+        <SteadyState Duration="300" Power="0.79813558"/>
+        <Cooldown Duration="300" PowerLow="0.75067794" PowerHigh="0.4761017"/>
+    </workout>
+</workout_file>

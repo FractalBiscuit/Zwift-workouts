@@ -1,9 +1,10 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description>When you think you’re going fast and then you have to go faster? That’s racing and that’s what TINT prepares you for: each interval gets faster and faster, helping you break through new barriers. 
-</description>
-    <name>Sufferfest - There Is No Try
-</name>
+	<author></author>
+	<name>Sufferfest - There Is No Try</name>
+    <description>When you think you’re going fast and then you have to go faster? That’s racing and that’s what TINT prepares you for: each interval gets faster and faster, helping you break through new barriers. </description>
+    <sportType>bike</sportType>
+	<tags></tags>
+
     <workout>
         <SteadyState Duration="277.2" PowerHigh="0.560" PowerLow="0.560"/>
         <SteadyState Duration="120.6" PowerHigh="0.750" PowerLow="0.750"/>

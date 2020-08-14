@@ -1,9 +1,10 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description>Local Hero has everything but the kitchen sink: time trials, criterium, cyclocross, road racing and historic sprints. A perfect workout to get both variety and endurance in. 
-</description>
-    <name>Sufferfest - Local Hero
-</name>
+	<author></author>
+	<name>Sufferfest - Local Hero</name>
+    <description>Local Hero has everything but the kitchen sink: time trials, criterium, cyclocross, road racing and historic sprints. A perfect workout to get both variety and endurance in. </description>
+    <sportType>bike</sportType>
+	<tags></tags>
+
     <workout>
         <SteadyState Duration="223.2" PowerHigh="0.660" PowerLow="0.660"/>
         <SteadyState Duration="357.0" PowerHigh="0.750" PowerLow="0.750"/>

@@ -1,9 +1,10 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description>Is this our hardest workout? Featuring nine Vo2 and threshold intervals, this session will take you to the edge, push you over it and send a flaming river of lava down on top of you. You’ll love it. 
-</description>
-    <name>Sufferfest - Nine Hammers
-</name>
+	<author></author>
+	<name>Sufferfest - Nine Hammers</name>
+    <description>Is this our hardest workout? Featuring nine Vo2 and threshold intervals, this session will take you to the edge, push you over it and send a flaming river of lava down on top of you. You’ll love it. </description>
+    <sportType>bike</sportType>
+	<tags></tags>
+
     <workout>
         <SteadyState Duration="162.0" PowerHigh="0.500" PowerLow="0.500"/>
         <SteadyState Duration="60.0" PowerHigh="0.610" PowerLow="0.610"/>

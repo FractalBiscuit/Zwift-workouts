@@ -1,9 +1,11 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description>The essential climbing workout, featuring 10 minutes of over/unders to prepare the legs and then three brutal, eight-minute climbs 
-</description>
-    <name>Sufferfest - Angels 2015
-</name>
+
+	<author></author>
+	<name>Sufferfest - Angels 2015</name>
+    <description>The essential climbing workout, featuring 10 minutes of over/unders to prepare the legs and then three brutal, eight-minute climbs </description>
+    <sportType>bike</sportType>
+	<tags></tags>
+    
     <workout>
         <SteadyState Duration="120.0" PowerHigh="0.560" PowerLow="0.560"/>
         <SteadyState Duration="90.0" PowerHigh="0.660" PowerLow="0.660"/>

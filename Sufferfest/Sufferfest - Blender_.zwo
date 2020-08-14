@@ -1,9 +1,9 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description>Work on that threshold endurance with this series of longer intervals that will take you right to the edge….and keep you there. Watch out for the Pain Shakes intervals before a few sustained efforts at the end suck everything else out of you. 
-</description>
-    <name>Sufferfest - Blender
-</name>
+	<author></author>
+	<name>Sufferfest - Blender</name>
+    <description>Work on that threshold endurance with this series of longer intervals that will take you right to the edge….and keep you there. Watch out for the Pain Shakes intervals before a few sustained efforts at the end suck everything else out of you. </description>
+    <sportType>bike</sportType>
+	<tags></tags>
     <workout>
         <SteadyState Duration="331.8" PowerHigh="0.560" PowerLow="0.560"/>
         <SteadyState Duration="133.2" PowerHigh="0.660" PowerLow="0.660"/>

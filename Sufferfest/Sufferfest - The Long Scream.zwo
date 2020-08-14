@@ -1,9 +1,10 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description>Love time trials? Then you’ll love to hate The Long Scream, which demands you keep up with the world’s best cyclists at the World Triathlon Championships for 35 agonising minutes.
-</description>
-    <name>Sufferfest - The Long Scream
-</name>
+	<author></author>
+	<name>Sufferfest - The Long Scream</name>
+    <description>Love time trials? Then you’ll love to hate The Long Scream, which demands you keep up with the world’s best cyclists at the World Triathlon Championships for 35 agonising minutes.</description>
+    <sportType>bike</sportType>
+	<tags></tags>
+
     <workout>
         <SteadyState Duration="121.8" PowerHigh="0.560" PowerLow="0.560"/>
         <SteadyState Duration="82.2" PowerHigh="0.750" PowerLow="0.750"/>

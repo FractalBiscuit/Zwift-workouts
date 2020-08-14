@@ -1,9 +1,9 @@
-<?xml version="1.0" ?>
 <workout_file>
-<description> DAYT has a workout designed by elite cycling coach Sir Neal Henderson, KoS, of Apex Coaching. In it, you’ll tackle two sets of 11 intervals each. The first set is matching intervals, with efforts matching recoveries. The second set features inverse intervals, with opposite efforts and recoveries. It’s an incredible session to develop explosive, maximum power and enhance your ability to recover quickly from big efforts and go again before anyone knows what hit them.
-</description>
-    <name>Sufferfest - Do As You're Told
-</name>
+	<author></author>
+	<name>Sufferfest - Do As You're Told</name>
+    <description>DAYT has a workout designed by elite cycling coach Sir Neal Henderson, KoS, of Apex Coaching. In it, you'll tackle two sets of 11 intervals each. The first set is matching intervals, with efforts matching recoveries. The second set features inverse intervals, with opposite efforts and recoveries. It’s an incredible session to develop explosive, maximum power and enhance your ability to recover quickly from big efforts and go again before anyone knows what hit them.</description>
+    <sportType>bike</sportType>
+	<tags></tags>
     <workout>
         <SteadyState Duration="288.0" PowerHigh="0.390" PowerLow="0.390"/>
         <SteadyState Duration="147.0" PowerHigh="0.610" PowerLow="0.610"/>

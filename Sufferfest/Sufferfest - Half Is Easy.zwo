@@ -1,9 +1,10 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description>Designed by British Cyclocross Champion Ian Field, this workout features two sets of twenty flat-out efforts. They’re only fifteen seconds in length, but they’ll seem like eternity. You’ll come out of it with fantastic explosive power for creating gaps behind you!
-</description>
-    <name>Sufferfest - Half Is Easy
-</name>
+	<author></author>
+	<name>Sufferfest - Half Is Easy</name>
+    <description>Designed by British Cyclocross Champion Ian Field, this workout features two sets of twenty flat-out efforts. They’re only fifteen seconds in length, but they’ll seem like eternity. You’ll come out of it with fantastic explosive power for creating gaps behind you!</description>
+    <sportType>bike</sportType>
+	<tags></tags>
+
     <workout>
         <SteadyState Duration="133.8" PowerHigh="0.500" PowerLow="0.500"/>
         <SteadyState Duration="100.2" PowerHigh="0.610" PowerLow="0.610"/>

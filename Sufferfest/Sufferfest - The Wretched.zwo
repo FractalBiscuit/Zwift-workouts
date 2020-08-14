@@ -1,9 +1,9 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description>This workout does not have a clear structure. But that’s how road races are – you have a general idea of what the course is like, but you don’t really know how the race will unfold. So, The Wretched will keep you guessing – and anticipating what your rivals are going to do. You’ll never know when an attack is coming – and they usually come when you most wish they wouldn’t.
-</description>
-    <name>Sufferfest - The Wretched
-</name>
+	<author></author>
+	<name>Sufferfest - The Wretched</name>
+    <description>This workout does not have a clear structure. But that’s how road races are – you have a general idea of what the course is like, but you don’t really know how the race will unfold. So, The Wretched will keep you guessing – and anticipating what your rivals are going to do. You’ll never know when an attack is coming – and they usually come when you most wish they wouldn’t.</description>
+    <sportType>bike</sportType>
+	<tags></tags>
     <workout>
         <SteadyState Duration="295.8" PowerHigh="0.660" PowerLow="0.660"/>
         <SteadyState Duration="96.0" PowerHigh="0.750" PowerLow="0.750"/>

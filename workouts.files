@@ -1,5 +1,33 @@
 <custom_file_directory>
     <custom_file>
+        <name>Curve-Based Intervals/Etched_Headplate.zwo</name>
+        <time>0</time>
+        <guid>8396</guid>
+        <checksum>61</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Sufferfest/Sufferfest___Violator.zwo</name>
+        <time>0</time>
+        <guid>13709</guid>
+        <checksum>72</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Sufferfest/Sufferfest___Downward_Spiral.zwo</name>
+        <time>0</time>
+        <guid>28156</guid>
+        <checksum>104</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Sufferfest/Sufferfest - Blender_.zwo</name>
+        <time>0</time>
+        <guid>5582</guid>
+        <checksum>152</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Curve-Based Intervals/Ghost_Hardware.zwo</name>
         <time>0</time>
         <guid>4540</guid>
@@ -770,13 +798,6 @@
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
-        <name>Sufferfest/Sufferfest - Blender.zwo</name>
-        <time>0</time>
-        <guid>16111</guid>
-        <checksum>239</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>Paul Mack Over-Under Progression/over-under-progression-15.zwo</name>
         <time>0</time>
         <guid>22235</guid>
@@ -879,13 +900,6 @@
         <time>1577320843</time>
         <guid>5074</guid>
         <checksum>138</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Sufferfest/Sufferfest - Violator.zwo</name>
-        <time>0</time>
-        <guid>18357</guid>
-        <checksum>254</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1026,13 +1040,6 @@
         <time>0</time>
         <guid>8896</guid>
         <checksum>53</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>Sufferfest/Sufferfest - Downward Spiral.zwo</name>
-        <time>0</time>
-        <guid>27268</guid>
-        <checksum>68</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -1182,5 +1189,8 @@
         <hash>2154130339</hash>
         <hash>1144917181</hash>
         <hash>278879612</hash>
+        <hash>3378347612</hash>
+        <hash>1759286662</hash>
+        <hash>300873391</hash>
     </deleted_files>
 </custom_file_directory>

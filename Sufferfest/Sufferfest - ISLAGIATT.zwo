@@ -1,9 +1,10 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description>Need to get a massive endurance session in? Then ‘It Seemed Like a Good Idea at the Time’ is the perfect mix of long climbs, big attacks and sustained efforts
-</description>
-    <name>Sufferfest - ISLAGIATT
-</name>
+	<author></author>
+	<name>Sufferfest - ISLAGIATT</name>
+    <description>Need to get a massive endurance session in? Then ‘It Seemed Like a Good Idea at the Time’ is the perfect mix of long climbs, big attacks and sustained efforts</description>
+    <sportType>bike</sportType>
+	<tags></tags>
+
     <workout>
         <SteadyState Duration="376.8" PowerHigh="0.560" PowerLow="0.560"/>
         <SteadyState Duration="120.0" PowerHigh="0.660" PowerLow="0.660"/>

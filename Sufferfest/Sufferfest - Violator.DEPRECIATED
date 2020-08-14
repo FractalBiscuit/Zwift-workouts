@@ -1,8 +1,10 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description>Few of us are born sprinters. So Violator is going to make you one. This session takes you through 64 (yes, 64) sprints of 5, 10 and 15 seconds 
-</description>
-    <name>Sufferfest - Violator</name>
+	<author></author>
+	<name>Sufferfest - Violator</name>
+    <description>Few of us are born sprinters. So Violator is going to make you one. This session takes you through 64 (yes, 64) sprints of 5, 10 and 15 seconds </description>
+    <sportType>bike</sportType>
+	<tags></tags>
+
     <workout>
         <SteadyState Duration="280.2" PowerHigh="0.500" PowerLow="0.500"/>
         <SteadyState Duration="184.8" PowerHigh="0.610" PowerLow="0.610"/>

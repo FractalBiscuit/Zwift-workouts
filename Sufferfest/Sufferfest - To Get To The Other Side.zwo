@@ -1,9 +1,10 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description>To Get to the Other Side features varying efforts and cadences. Aside from a couple of brief leg-openers, you’ll spend the entire workout just below threshold, making it a perfect session for base building or tempo rides between your regular Sufferfest sessions.
-</description>
-    <name>Sufferfest - To Get To The Other Side
-</name>
+	<author></author>
+	<name>Sufferfest - To Get To The Other Side</name>
+    <description>To Get to the Other Side features varying efforts and cadences. Aside from a couple of brief leg-openers, you’ll spend the entire workout just below threshold, making it a perfect session for base building or tempo rides between your regular Sufferfest sessions.</description>
+    <sportType>bike</sportType>
+	<tags></tags>
+	
     <workout>
         <Warmup Duration="259.8" PowerHigh="0.550" PowerLow="0.400"/>
         <SteadyState Duration="50.4" PowerHigh="0.550" PowerLow="0.550"/>

@@ -1,9 +1,10 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description>Fight Club was designed to build power over longer durations, while increasing leg-speed through 23 (!) ‘attacks’ that will challenge you to accelerate and then recover while still making a massive effort. Here’s what you’ll get over the roughly 60 minutes:
-</description>
-    <name>Sufferfest - Fight Club
-</name>
+	<author></author>
+	<name>Sufferfest - Fight Club</name>
+    <description>Fight Club was designed to build power over longer durations, while increasing leg-speed through 23 (!) ‘attacks’ that will challenge you to accelerate and then recover while still making a massive effort. Here’s what you’ll get over the roughly 60 minutes:</description>
+    <sportType>bike</sportType>
+	<tags></tags>
+
     <workout>
         <SteadyState Duration="139.2" PowerHigh="0.560" PowerLow="0.560"/>
         <SteadyState Duration="172.8" PowerHigh="0.660" PowerLow="0.660"/>

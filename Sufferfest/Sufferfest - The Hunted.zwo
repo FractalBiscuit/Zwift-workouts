@@ -1,9 +1,10 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description>One of our most popular sessions, this workout features a 20 minute climb followed by five brutal minutes of inverse intervals.
-</description>
-    <name>Sufferfest - The Hunted
-</name>
+	<author></author>
+	<name>Sufferfest - The Hunted</name>
+    <description>One of our most popular sessions, this workout features a 20 minute climb followed by five brutal minutes of inverse intervals.</description>
+    <sportType>bike</sportType>
+	<tags></tags>
+
     <workout>
         <SteadyState Duration="226.8" PowerHigh="0.660" PowerLow="0.660"/>
         <SteadyState Duration="169.2" PowerHigh="0.750" PowerLow="0.750"/>

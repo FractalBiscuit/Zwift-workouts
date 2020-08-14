@@ -1,9 +1,10 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description>While our other videos make you a faster rider, Elements of Style makes you a better rider. Six drills help you improve your form and efficiency on the bike. A session you should do at least once a month. 
-</description>
-    <name>Sufferfest - Elements of Style
-</name>
+	<author></author>
+	<name>Sufferfest - Elements of Style</name>
+    <description>While our other videos make you a faster rider, Elements of Style makes you a better rider. Six drills help you improve your form and efficiency on the bike. A session you should do at least once a month. </description>
+    <sportType>bike</sportType>
+	<tags></tags>
+
     <workout>
         <SteadyState Duration="172.2" PowerHigh="0.560" PowerLow="0.560"/>
         <SteadyState Duration="237.6" PowerHigh="0.660" PowerLow="0.660"/>

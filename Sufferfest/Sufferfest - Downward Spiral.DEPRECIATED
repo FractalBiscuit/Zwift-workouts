@@ -1,9 +1,9 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description>An essential workout for developing tremendous speed, power and recovery, this is the only cycling workout that asks you to chase back to the front in Paris-Roubaix or out-sprint the pack at the top of the Mur de Huy at the end of the Fleche Wallone.
-</description>
-    <name>Sufferfest - Downward Spiral
-</name>
+	<author></author>
+	<name>Sufferfest - Downward Spiral</name>
+    <description>An essential workout for developing tremendous speed, power and recovery, this is the only cycling workout that asks you to chase back to the front in Paris-Roubaix or out-sprint the pack at the top of the Mur de Huy at the end of the Fleche Wallone.</description>
+    <sportType>bike</sportType>
+	<tags></tags>
     <workout>
         <SteadyState Duration="127.8" PowerHigh="0.560" PowerLow="0.560"/>
         <SteadyState Duration="188.4" PowerHigh="0.560" PowerLow="0.560"/>

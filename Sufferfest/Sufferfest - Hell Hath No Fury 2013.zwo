@@ -1,9 +1,10 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description>The classic 2 x 20 minute workout, but with a Sufferlandrian twist, this is the story of your effort to win the Tour of Sufferlandria
-</description>
-    <name>Sufferfest - Hell Hath No Fury 2013
-</name>
+	<author></author>
+	<name>Sufferfest - Hell Hath No Fury 2013</name>
+    <description>The classic 2 x 20 minute workout, but with a Sufferlandrian twist, this is the story of your effort to win the Tour of Sufferlandria</description>
+    <sportType>bike</sportType>
+	<tags></tags>
+
     <workout>
         <Warmup Duration="60.0" PowerHigh="0.560" PowerLow="0.460"/>
         <Warmup Duration="166.8" PowerHigh="0.750" PowerLow="0.560"/>

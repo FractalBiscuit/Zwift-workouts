@@ -1,9 +1,11 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description>Designed to help you improve your top speed over short distances – making attacks, getting over short hills or taking a big pull at the front of the breakaway.
-</description>
-    <name>Sufferfest - A Very Dark Place 2014
-</name>
+
+	<author></author>
+	<name>Sufferfest - A Very Dark Place 2014</name>
+    <description>Designed to help you improve your top speed over short distances – making attacks, getting over short hills or taking a big pull at the front of the breakaway.</description>
+    <sportType>bike</sportType>
+	<tags></tags>
+
     <workout>
         <SteadyState Duration="250.2" PowerHigh="0.560" PowerLow="0.560"/>
         <SteadyState Duration="126.0" PowerHigh="0.750" PowerLow="0.750"/>

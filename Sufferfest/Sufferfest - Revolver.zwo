@@ -1,9 +1,10 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description>Simple. Brutal. Uncomplicated. This is a workout you don’t have to think about. You just get on, drive yourself into the ground, and get off. Featuring sixteen one minute intervals with one minute recoveries. 
-</description>
-    <name>Sufferfest - Revolver
-</name>
+	<author></author>
+	<name>
+    <name>Sufferfest - Revolver</name>
+    <description>Simple. Brutal. Uncomplicated. This is a workout you don’t have to think about. You just get on, drive yourself into the ground, and get off. Featuring sixteen one minute intervals with one minute recoveries. </description>
+    <sportType>bike</sportType>
+	<tags></tags>
     <workout>
         <SteadyState Duration="154.2" PowerHigh="0.560" PowerLow="0.560"/>
         <SteadyState Duration="241.8" PowerHigh="0.660" PowerLow="0.660"/>

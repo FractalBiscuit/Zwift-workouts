@@ -1,0 +1,43 @@
+<workout_file>
+    <author></author>
+    <name>Etched Headplate</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <SteadyState Duration="120" Power="0.45"/>
+        <SteadyState Duration="120" Power="0.5"/>
+        <SteadyState Duration="120" Power="0.6"/>
+        <SteadyState Duration="180" Power="0.65"/>
+        <IntervalsT Repeat="2" OnDuration="45" OffDuration="45" OnPower="1.37" OffPower="0.65"/>
+        <SteadyState Duration="60" Power="0.45"/>
+        <SteadyState Duration="180" Power="1.07"/>
+        <SteadyState Duration="90" Power="0.45"/>
+        <SteadyState Duration="165" Power="1.14"/>
+        <SteadyState Duration="90" Power="0.45"/>
+        <SteadyState Duration="150" Power="1.16"/>
+        <SteadyState Duration="90" Power="0.45"/>
+        <SteadyState Duration="120" Power="1.19"/>
+        <SteadyState Duration="90" Power="0.45"/>
+        <SteadyState Duration="105" Power="1.21"/>
+        <SteadyState Duration="90" Power="0.45"/>
+        <SteadyState Duration="90" Power="1.23"/>
+        <SteadyState Duration="180" Power="0.45"/>
+        <SteadyState Duration="165" Power="1.21"/>
+        <SteadyState Duration="90" Power="0.45"/>
+        <SteadyState Duration="150" Power="1.23"/>
+        <SteadyState Duration="90" Power="0.45"/>
+        <SteadyState Duration="120" Power="1.27"/>
+        <SteadyState Duration="90" Power="0.45"/>
+        <SteadyState Duration="105" Power="1.29"/>
+        <SteadyState Duration="90" Power="0.45"/>
+        <SteadyState Duration="90" Power="1.3"/>
+        <SteadyState Duration="90" Power="0.45"/>
+        <SteadyState Duration="90" Power="1.32"/>
+        <SteadyState Duration="90" Power="0.45"/>
+        <SteadyState Duration="90" Power="1.34"/>
+        <SteadyState Duration="90" Power="0.45"/>
+        <Cooldown Duration="540" PowerLow="0.45" PowerHigh="0.25"/>
+    </workout>
+</workout_file>

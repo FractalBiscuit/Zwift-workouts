@@ -1,9 +1,10 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description>Absolutely essential for anyone racing criteriums or cyclocross, TBTITW is one of our best sessions for developing high-end power, recovery and mental strength at the end of a scrappy, aggressive race or killer group ride.
-</description>
-    <name>Sufferfest - The Best Thing In The World
-</name>
+	<author></author>
+	<name>Sufferfest - The Best Thing In The World</name>
+    <description>Absolutely essential for anyone racing criteriums or cyclocross, TBTITW is one of our best sessions for developing high-end power, recovery and mental strength at the end of a scrappy, aggressive race or killer group ride.</description>
+    <sportType>bike</sportType>
+	<tags></tags>
+
     <workout>
         <SteadyState Duration="228.0" PowerHigh="0.390" PowerLow="0.390"/>
         <SteadyState Duration="139.2" PowerHigh="0.500" PowerLow="0.500"/>

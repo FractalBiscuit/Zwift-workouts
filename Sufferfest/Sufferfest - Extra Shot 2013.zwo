@@ -1,9 +1,10 @@
-<?xml version="1.0" ?>
 <workout_file>
-    <description> Want to make your workout just a bit longer? Extra Shot is a 20 minute race simulation that you can add on to any session where you want to drag the suffering out even more. 
-</description>
-    <name>Sufferfest - Extra Shot
-</name>
+	<author></author>
+	<name>Sufferfest - Extra Shot</name>
+    <description>Want to make your workout just a bit longer? Extra Shot is a 20 minute race simulation that you can add on to any session where you want to drag the suffering out even more. </description>
+    <sportType>bike</sportType>
+	<tags></tags>
+
     <workout>
         <SteadyState Duration="99.0" PowerHigh="0.560" PowerLow="0.560"/>
         <SteadyState Duration="108.0" PowerHigh="0.950" PowerLow="0.950"/>
